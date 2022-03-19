@@ -1,0 +1,18 @@
+[1.00] Arrival - Customer 3
+[2.00] Arrival - Customer 2
+[2.00] Arrival - Customer 1
+[8.00] Finished Shopping - Customer 2
+Now checking out 12 items @ Express Lane 12
+[8.00] Finished Shopping - Customer 3
+Now checking out 14 items @ Regular Lane 2
+[9.50] Finished Shopping - Customer 1
+Now checking out 15 items @ Regular Lane 7
+[10.20] Finished Checkout - Customer 2 on Express Lane 12
+[Lane Report] Finished shopping @ 8.00, Front of line @ 8.00, Checkout ended @ 10.20 (0 customers in line, 0.00 wait time).
+[10.70] Finished Checkout - Customer 3 on Regular Lane 2
+[Lane Report] Finished shopping @ 8.00, Front of line @ 8.00, Checkout ended @ 10.70 (0 customers in line, 0.00 wait time).
+[12.25] Finished Checkout - Customer 1 on Regular Lane 7
+[Lane Report] Finished shopping @ 9.50, Front of line @ 9.50, Checkout ended @ 12.25 (0 customers in line, 0.00 wait time).
+
+Input file used: arrival simple.txt
+Average wait time: 0.00

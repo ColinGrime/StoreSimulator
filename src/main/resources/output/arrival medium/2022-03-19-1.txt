@@ -1,0 +1,2263 @@
+[1.19] Arrival - Customer 382
+[3.29] Arrival - Customer 252
+[5.13] Arrival - Customer 67
+[7.10] Arrival - Customer 55
+[8.75] Arrival - Customer 98
+[8.80] Arrival - Customer 385
+[9.34] Arrival - Customer 109
+[10.13] Arrival - Customer 63
+[10.97] Arrival - Customer 408
+[12.89] Finished Shopping - Customer 63
+Now checking out 3 items @ Express Lane 10
+[13.07] Arrival - Customer 350
+[14.19] Arrival - Customer 392
+[14.19] Finished Checkout - Customer 63 on Express Lane 10
+[Lane Report] Finished shopping @ 12.89, Front of line @ 12.89, Checkout ended @ 14.19 (0 customers in line, 0.00 wait time).
+[15.68] Arrival - Customer 395
+[16.35] Finished Shopping - Customer 98
+Now checking out 10 items @ Express Lane 10
+[18.35] Finished Checkout - Customer 98 on Express Lane 10
+[Lane Report] Finished shopping @ 16.35, Front of line @ 16.35, Checkout ended @ 18.35 (0 customers in line, 0.00 wait time).
+[19.60] Finished Shopping - Customer 109
+Now checking out 9 items @ Express Lane 10
+[20.03] Arrival - Customer 201
+[21.50] Finished Checkout - Customer 109 on Express Lane 10
+[Lane Report] Finished shopping @ 19.60, Front of line @ 19.60, Checkout ended @ 21.50 (0 customers in line, 0.00 wait time).
+[23.00] Arrival - Customer 61
+[23.11] Arrival - Customer 17
+[24.09] Finished Shopping - Customer 67
+Now checking out 24 items @ Regular Lane 9
+[25.80] Arrival - Customer 451
+[26.14] Arrival - Customer 151
+[27.29] Finished Checkout - Customer 67 on Regular Lane 9
+[Lane Report] Finished shopping @ 24.09, Front of line @ 24.09, Checkout ended @ 27.29 (0 customers in line, 0.00 wait time).
+[27.71] Finished Shopping - Customer 382
+Now checking out 26 items @ Regular Lane 5
+[28.33] Arrival - Customer 18
+[29.05] Arrival - Customer 95
+[30.22] Finished Shopping - Customer 151
+Now checking out 3 items @ Express Lane 10
+[31.01] Finished Checkout - Customer 382 on Regular Lane 5
+[Lane Report] Finished shopping @ 27.71, Front of line @ 27.71, Checkout ended @ 31.01 (0 customers in line, 0.00 wait time).
+[31.52] Finished Checkout - Customer 151 on Express Lane 10
+[Lane Report] Finished shopping @ 30.22, Front of line @ 30.22, Checkout ended @ 31.52 (0 customers in line, 0.00 wait time).
+[31.73] Finished Shopping - Customer 201
+Now checking out 18 items @ Regular Lane 3
+[32.95] Arrival - Customer 213
+[33.09] Finished Shopping - Customer 392
+Now checking out 21 items @ Regular Lane 9
+[33.85] Finished Shopping - Customer 95
+Now checking out 4 items @ Express Lane 10
+[34.10] Finished Shopping - Customer 55
+Now checking out 36 items @ Regular Lane 6
+[34.35] Arrival - Customer 218
+[34.63] Finished Checkout - Customer 201 on Regular Lane 3
+[Lane Report] Finished shopping @ 31.73, Front of line @ 31.73, Checkout ended @ 34.63 (0 customers in line, 0.00 wait time).
+[34.96] Finished Shopping - Customer 213
+Now checking out 3 items @ Express Lane 12
+[35.17] Arrival - Customer 358
+[35.25] Finished Checkout - Customer 95 on Express Lane 10
+[Lane Report] Finished shopping @ 33.85, Front of line @ 33.85, Checkout ended @ 35.25 (0 customers in line, 0.00 wait time).
+[35.89] Arrival - Customer 291
+[35.94] Arrival - Customer 316
+[36.14] Finished Checkout - Customer 392 on Regular Lane 9
+[Lane Report] Finished shopping @ 33.09, Front of line @ 33.09, Checkout ended @ 36.14 (0 customers in line, 0.00 wait time).
+[36.20] Finished Shopping - Customer 17
+Now checking out 11 items @ Express Lane 10
+[36.26] Finished Checkout - Customer 213 on Express Lane 12
+[Lane Report] Finished shopping @ 34.96, Front of line @ 34.96, Checkout ended @ 36.26 (0 customers in line, 0.00 wait time).
+[36.31] Finished Shopping - Customer 252
+Now checking out 26 items @ Regular Lane 7
+[36.75] Finished Shopping - Customer 61
+Now checking out 11 items @ Express Lane 12
+[37.82] Arrival - Customer 181
+[37.90] Finished Checkout - Customer 55 on Regular Lane 6
+[Lane Report] Finished shopping @ 34.10, Front of line @ 34.10, Checkout ended @ 37.90 (0 customers in line, 0.00 wait time).
+[38.30] Finished Checkout - Customer 17 on Express Lane 10
+[Lane Report] Finished shopping @ 36.20, Front of line @ 36.20, Checkout ended @ 38.30 (0 customers in line, 0.00 wait time).
+[38.85] Finished Checkout - Customer 61 on Express Lane 12
+[Lane Report] Finished shopping @ 36.75, Front of line @ 36.75, Checkout ended @ 38.85 (0 customers in line, 0.00 wait time).
+[38.87] Finished Shopping - Customer 291
+Now checking out 2 items @ Express Lane 10
+[39.61] Finished Checkout - Customer 252 on Regular Lane 7
+[Lane Report] Finished shopping @ 36.31, Front of line @ 36.31, Checkout ended @ 39.61 (0 customers in line, 0.00 wait time).
+[40.07] Finished Checkout - Customer 291 on Express Lane 10
+[Lane Report] Finished shopping @ 38.87, Front of line @ 38.87, Checkout ended @ 40.07 (0 customers in line, 0.00 wait time).
+[40.32] Arrival - Customer 237
+[40.52] Arrival - Customer 182
+[40.72] Arrival - Customer 8
+[42.13] Finished Shopping - Customer 408
+Now checking out 38 items @ Regular Lane 5
+[42.39] Arrival - Customer 26
+[43.07] Finished Shopping - Customer 350
+Now checking out 30 items @ Regular Lane 9
+[43.59] Finished Shopping - Customer 18
+Now checking out 14 items @ Regular Lane 2
+[44.62] Arrival - Customer 440
+[45.47] Finished Shopping - Customer 182
+Now checking out 5 items @ Express Lane 10
+[46.03] Finished Checkout - Customer 408 on Regular Lane 5
+[Lane Report] Finished shopping @ 42.13, Front of line @ 42.13, Checkout ended @ 46.03 (0 customers in line, 0.00 wait time).
+[46.29] Finished Checkout - Customer 18 on Regular Lane 2
+[Lane Report] Finished shopping @ 43.59, Front of line @ 43.59, Checkout ended @ 46.29 (0 customers in line, 0.00 wait time).
+[46.57] Finished Checkout - Customer 350 on Regular Lane 9
+[Lane Report] Finished shopping @ 43.07, Front of line @ 43.07, Checkout ended @ 46.57 (0 customers in line, 0.00 wait time).
+[46.97] Finished Checkout - Customer 182 on Express Lane 10
+[Lane Report] Finished shopping @ 45.47, Front of line @ 45.47, Checkout ended @ 46.97 (0 customers in line, 0.00 wait time).
+[48.09] Arrival - Customer 225
+[48.45] Finished Shopping - Customer 26
+Now checking out 6 items @ Express Lane 10
+[49.52] Finished Shopping - Customer 395
+Now checking out 24 items @ Regular Lane 8
+[49.52] Arrival - Customer 335
+[49.76] Arrival - Customer 119
+[50.05] Finished Checkout - Customer 26 on Express Lane 10
+[Lane Report] Finished shopping @ 48.45, Front of line @ 48.45, Checkout ended @ 50.05 (0 customers in line, 0.00 wait time).
+[51.41] Arrival - Customer 208
+[52.72] Finished Checkout - Customer 395 on Regular Lane 8
+[Lane Report] Finished shopping @ 49.52, Front of line @ 49.52, Checkout ended @ 52.72 (0 customers in line, 0.00 wait time).
+[52.85] Arrival - Customer 144
+[53.56] Arrival - Customer 84
+[53.57] Arrival - Customer 148
+[55.42] Arrival - Customer 19
+[56.22] Arrival - Customer 137
+[56.52] Arrival - Customer 74
+[56.82] Finished Shopping - Customer 225
+Now checking out 9 items @ Express Lane 10
+[58.50] Finished Shopping - Customer 74
+Now checking out 2 items @ Express Lane 12
+[58.72] Finished Checkout - Customer 225 on Express Lane 10
+[Lane Report] Finished shopping @ 56.82, Front of line @ 56.82, Checkout ended @ 58.72 (0 customers in line, 0.00 wait time).
+[59.70] Finished Checkout - Customer 74 on Express Lane 12
+[Lane Report] Finished shopping @ 58.50, Front of line @ 58.50, Checkout ended @ 59.70 (0 customers in line, 0.00 wait time).
+[60.01] Arrival - Customer 336
+[60.02] Arrival - Customer 147
+[60.10] Finished Shopping - Customer 440
+Now checking out 12 items @ Express Lane 10
+[60.81] Finished Shopping - Customer 218
+Now checking out 49 items @ Regular Lane 1
+[61.36] Arrival - Customer 88
+[61.42] Finished Shopping - Customer 137
+Now checking out 8 items @ Express Lane 12
+[62.30] Finished Checkout - Customer 440 on Express Lane 10
+[Lane Report] Finished shopping @ 60.10, Front of line @ 60.10, Checkout ended @ 62.30 (0 customers in line, 0.00 wait time).
+[62.40] Arrival - Customer 153
+[63.22] Finished Checkout - Customer 137 on Express Lane 12
+[Lane Report] Finished shopping @ 61.42, Front of line @ 61.42, Checkout ended @ 63.22 (0 customers in line, 0.00 wait time).
+[63.35] Arrival - Customer 326
+[63.84] Finished Shopping - Customer 208
+Now checking out 11 items @ Express Lane 10
+[64.24] Arrival - Customer 234
+[65.26] Finished Checkout - Customer 218 on Regular Lane 1
+[Lane Report] Finished shopping @ 60.81, Front of line @ 60.81, Checkout ended @ 65.26 (0 customers in line, 0.00 wait time).
+[65.36] Finished Shopping - Customer 119
+Now checking out 20 items @ Regular Lane 1
+[65.94] Finished Checkout - Customer 208 on Express Lane 10
+[Lane Report] Finished shopping @ 63.84, Front of line @ 63.84, Checkout ended @ 65.94 (0 customers in line, 0.00 wait time).
+[66.06] Finished Shopping - Customer 336
+Now checking out 5 items @ Express Lane 10
+[66.11] Arrival - Customer 175
+[67.56] Finished Checkout - Customer 336 on Express Lane 10
+[Lane Report] Finished shopping @ 66.06, Front of line @ 66.06, Checkout ended @ 67.56 (0 customers in line, 0.00 wait time).
+[67.58] Finished Shopping - Customer 147
+Now checking out 7 items @ Express Lane 10
+[68.07] Arrival - Customer 155
+[68.21] Finished Shopping - Customer 358
+Now checking out 59 items @ Regular Lane 5
+[68.36] Finished Checkout - Customer 119 on Regular Lane 1
+[Lane Report] Finished shopping @ 65.36, Front of line @ 65.36, Checkout ended @ 68.36 (0 customers in line, 0.00 wait time).
+[68.75] Arrival - Customer 249
+[69.28] Finished Checkout - Customer 147 on Express Lane 10
+[Lane Report] Finished shopping @ 67.58, Front of line @ 67.58, Checkout ended @ 69.28 (0 customers in line, 0.00 wait time).
+[69.46] Finished Shopping - Customer 88
+Now checking out 6 items @ Express Lane 10
+[69.53] Arrival - Customer 99
+[69.55] Arrival - Customer 31
+[69.98] Finished Shopping - Customer 316
+Now checking out 37 items @ Regular Lane 9
+[71.06] Finished Checkout - Customer 88 on Express Lane 10
+[Lane Report] Finished shopping @ 69.46, Front of line @ 69.46, Checkout ended @ 71.06 (0 customers in line, 0.00 wait time).
+[72.00] Arrival - Customer 346
+[72.87] Arrival - Customer 352
+[73.16] Finished Checkout - Customer 358 on Regular Lane 5
+[Lane Report] Finished shopping @ 68.21, Front of line @ 68.21, Checkout ended @ 73.16 (0 customers in line, 0.00 wait time).
+[73.83] Finished Checkout - Customer 316 on Regular Lane 9
+[Lane Report] Finished shopping @ 69.98, Front of line @ 69.98, Checkout ended @ 73.83 (0 customers in line, 0.00 wait time).
+[76.43] Finished Shopping - Customer 249
+Now checking out 6 items @ Express Lane 10
+[76.58] Arrival - Customer 228
+[77.32] Arrival - Customer 206
+[77.60] Finished Shopping - Customer 228
+Now checking out 2 items @ Express Lane 12
+[77.68] Arrival - Customer 254
+[78.03] Finished Checkout - Customer 249 on Express Lane 10
+[Lane Report] Finished shopping @ 76.43, Front of line @ 76.43, Checkout ended @ 78.03 (0 customers in line, 0.00 wait time).
+[78.15] Finished Shopping - Customer 346
+Now checking out 5 items @ Express Lane 10
+[78.72] Finished Shopping - Customer 451
+Now checking out 36 items @ Regular Lane 1
+[78.80] Finished Checkout - Customer 228 on Express Lane 12
+[Lane Report] Finished shopping @ 77.60, Front of line @ 77.60, Checkout ended @ 78.80 (0 customers in line, 0.00 wait time).
+[79.20] Arrival - Customer 267
+[79.22] Finished Shopping - Customer 19
+Now checking out 20 items @ Regular Lane 7
+[79.61] Arrival - Customer 171
+[79.65] Finished Checkout - Customer 346 on Express Lane 10
+[Lane Report] Finished shopping @ 78.15, Front of line @ 78.15, Checkout ended @ 79.65 (0 customers in line, 0.00 wait time).
+[79.86] Finished Shopping - Customer 155
+Now checking out 9 items @ Express Lane 10
+[80.19] Finished Shopping - Customer 385
+Now checking out 59 items @ Regular Lane 8
+[80.78] Arrival - Customer 212
+[81.54] Finished Shopping - Customer 267
+Now checking out 3 items @ Express Lane 12
+[81.64] Finished Shopping - Customer 206
+Now checking out 4 items @ Express Lane 11
+[81.72] Finished Shopping - Customer 153
+Now checking out 14 items @ Regular Lane 2
+[81.76] Finished Checkout - Customer 155 on Express Lane 10
+[Lane Report] Finished shopping @ 79.86, Front of line @ 79.86, Checkout ended @ 81.76 (0 customers in line, 0.00 wait time).
+[82.19] Finished Shopping - Customer 148
+Now checking out 54 items @ Regular Lane 6
+[82.22] Finished Checkout - Customer 19 on Regular Lane 7
+[Lane Report] Finished shopping @ 79.22, Front of line @ 79.22, Checkout ended @ 82.22 (0 customers in line, 0.00 wait time).
+[82.52] Finished Checkout - Customer 451 on Regular Lane 1
+[Lane Report] Finished shopping @ 78.72, Front of line @ 78.72, Checkout ended @ 82.52 (0 customers in line, 0.00 wait time).
+[82.75] Arrival - Customer 292
+[82.84] Finished Checkout - Customer 267 on Express Lane 12
+[Lane Report] Finished shopping @ 81.54, Front of line @ 81.54, Checkout ended @ 82.84 (0 customers in line, 0.00 wait time).
+[83.03] Arrival - Customer 179
+[83.04] Finished Checkout - Customer 206 on Express Lane 11
+[Lane Report] Finished shopping @ 81.64, Front of line @ 81.64, Checkout ended @ 83.04 (0 customers in line, 0.00 wait time).
+[83.50] Arrival - Customer 199
+[83.57] Finished Shopping - Customer 175
+Now checking out 18 items @ Regular Lane 3
+[84.42] Finished Checkout - Customer 153 on Regular Lane 2
+[Lane Report] Finished shopping @ 81.72, Front of line @ 81.72, Checkout ended @ 84.42 (0 customers in line, 0.00 wait time).
+[85.14] Finished Checkout - Customer 385 on Regular Lane 8
+[Lane Report] Finished shopping @ 80.19, Front of line @ 80.19, Checkout ended @ 85.14 (0 customers in line, 0.00 wait time).
+[85.64] Arrival - Customer 273
+[86.47] Finished Checkout - Customer 175 on Regular Lane 3
+[Lane Report] Finished shopping @ 83.57, Front of line @ 83.57, Checkout ended @ 86.47 (0 customers in line, 0.00 wait time).
+[86.89] Finished Checkout - Customer 148 on Regular Lane 6
+[Lane Report] Finished shopping @ 82.19, Front of line @ 82.19, Checkout ended @ 86.89 (0 customers in line, 0.00 wait time).
+[87.12] Arrival - Customer 214
+[89.05] Finished Shopping - Customer 179
+Now checking out 7 items @ Express Lane 10
+[89.58] Arrival - Customer 2
+[90.75] Finished Checkout - Customer 179 on Express Lane 10
+[Lane Report] Finished shopping @ 89.05, Front of line @ 89.05, Checkout ended @ 90.75 (0 customers in line, 0.00 wait time).
+[90.86] Arrival - Customer 318
+[91.36] Finished Shopping - Customer 273
+Now checking out 4 items @ Express Lane 10
+[92.37] Finished Shopping - Customer 234
+Now checking out 29 items @ Regular Lane 6
+[92.76] Finished Checkout - Customer 273 on Express Lane 10
+[Lane Report] Finished shopping @ 91.36, Front of line @ 91.36, Checkout ended @ 92.76 (0 customers in line, 0.00 wait time).
+[92.98] Finished Shopping - Customer 2
+Now checking out 5 items @ Express Lane 10
+[93.38] Finished Shopping - Customer 212
+Now checking out 9 items @ Express Lane 12
+[93.89] Arrival - Customer 239
+[94.48] Finished Checkout - Customer 2 on Express Lane 10
+[Lane Report] Finished shopping @ 92.98, Front of line @ 92.98, Checkout ended @ 94.48 (0 customers in line, 0.00 wait time).
+[95.28] Finished Checkout - Customer 212 on Express Lane 12
+[Lane Report] Finished shopping @ 93.38, Front of line @ 93.38, Checkout ended @ 95.28 (0 customers in line, 0.00 wait time).
+[95.56] Arrival - Customer 259
+[95.82] Finished Checkout - Customer 234 on Regular Lane 6
+[Lane Report] Finished shopping @ 92.37, Front of line @ 92.37, Checkout ended @ 95.82 (0 customers in line, 0.00 wait time).
+[96.35] Finished Shopping - Customer 326
+Now checking out 55 items @ Regular Lane 9
+[97.33] Arrival - Customer 100
+[98.25] Finished Shopping - Customer 352
+Now checking out 27 items @ Regular Lane 6
+[100.95] Finished Shopping - Customer 237
+Now checking out 47 items @ Regular Lane 3
+[101.10] Finished Checkout - Customer 326 on Regular Lane 9
+[Lane Report] Finished shopping @ 96.35, Front of line @ 96.35, Checkout ended @ 101.10 (0 customers in line, 0.00 wait time).
+[101.38] Finished Shopping - Customer 292
+Now checking out 23 items @ Regular Lane 7
+[101.60] Finished Checkout - Customer 352 on Regular Lane 6
+[Lane Report] Finished shopping @ 98.25, Front of line @ 98.25, Checkout ended @ 101.60 (0 customers in line, 0.00 wait time).
+[101.97] Finished Shopping - Customer 84
+Now checking out 47 items @ Regular Lane 1
+[102.16] Finished Shopping - Customer 335
+Now checking out 47 items @ Regular Lane 2
+[103.46] Finished Shopping - Customer 318
+Now checking out 10 items @ Express Lane 10
+[103.59] Arrival - Customer 281
+[103.78] Finished Shopping - Customer 99
+Now checking out 25 items @ Regular Lane 8
+[104.37] Arrival - Customer 378
+[104.53] Finished Checkout - Customer 292 on Regular Lane 7
+[Lane Report] Finished shopping @ 101.38, Front of line @ 101.38, Checkout ended @ 104.53 (0 customers in line, 0.00 wait time).
+[104.64] Arrival - Customer 314
+[105.30] Finished Checkout - Customer 237 on Regular Lane 3
+[Lane Report] Finished shopping @ 100.95, Front of line @ 100.95, Checkout ended @ 105.30 (0 customers in line, 0.00 wait time).
+[105.31] Finished Shopping - Customer 144
+Now checking out 43 items @ Regular Lane 6
+[105.42] Finished Shopping - Customer 378
+Now checking out 1 items @ Express Lane 12
+[105.46] Finished Checkout - Customer 318 on Express Lane 10
+[Lane Report] Finished shopping @ 103.46, Front of line @ 103.46, Checkout ended @ 105.46 (0 customers in line, 0.00 wait time).
+[106.32] Finished Checkout - Customer 84 on Regular Lane 1
+[Lane Report] Finished shopping @ 101.97, Front of line @ 101.97, Checkout ended @ 106.32 (0 customers in line, 0.00 wait time).
+[106.51] Finished Checkout - Customer 335 on Regular Lane 2
+[Lane Report] Finished shopping @ 102.16, Front of line @ 102.16, Checkout ended @ 106.51 (0 customers in line, 0.00 wait time).
+[106.52] Finished Checkout - Customer 378 on Express Lane 12
+[Lane Report] Finished shopping @ 105.42, Front of line @ 105.42, Checkout ended @ 106.52 (0 customers in line, 0.00 wait time).
+[107.03] Finished Checkout - Customer 99 on Regular Lane 8
+[Lane Report] Finished shopping @ 103.78, Front of line @ 103.78, Checkout ended @ 107.03 (0 customers in line, 0.00 wait time).
+[107.99] Finished Shopping - Customer 239
+Now checking out 10 items @ Express Lane 10
+[109.46] Finished Checkout - Customer 144 on Regular Lane 6
+[Lane Report] Finished shopping @ 105.31, Front of line @ 105.31, Checkout ended @ 109.46 (0 customers in line, 0.00 wait time).
+[109.81] Finished Shopping - Customer 259
+Now checking out 19 items @ Regular Lane 7
+[109.99] Finished Checkout - Customer 239 on Express Lane 10
+[Lane Report] Finished shopping @ 107.99, Front of line @ 107.99, Checkout ended @ 109.99 (0 customers in line, 0.00 wait time).
+[110.16] Arrival - Customer 427
+[110.42] Arrival - Customer 51
+[110.64] Arrival - Customer 186
+[111.07] Arrival - Customer 167
+[111.92] Finished Shopping - Customer 186
+Now checking out 1 items @ Express Lane 10
+[112.23] Arrival - Customer 355
+[112.76] Finished Checkout - Customer 259 on Regular Lane 7
+[Lane Report] Finished shopping @ 109.81, Front of line @ 109.81, Checkout ended @ 112.76 (0 customers in line, 0.00 wait time).
+[113.02] Finished Checkout - Customer 186 on Express Lane 10
+[Lane Report] Finished shopping @ 111.92, Front of line @ 111.92, Checkout ended @ 113.02 (0 customers in line, 0.00 wait time).
+[114.28] Finished Shopping - Customer 427
+Now checking out 4 items @ Express Lane 10
+[114.40] Finished Shopping - Customer 167
+Now checking out 3 items @ Express Lane 12
+[114.49] Arrival - Customer 115
+[115.33] Finished Shopping - Customer 355
+Now checking out 5 items @ Express Lane 11
+[115.68] Finished Checkout - Customer 427 on Express Lane 10
+[Lane Report] Finished shopping @ 114.28, Front of line @ 114.28, Checkout ended @ 115.68 (0 customers in line, 0.00 wait time).
+[115.70] Finished Checkout - Customer 167 on Express Lane 12
+[Lane Report] Finished shopping @ 114.40, Front of line @ 114.40, Checkout ended @ 115.70 (0 customers in line, 0.00 wait time).
+[115.82] Finished Shopping - Customer 181
+Now checking out 60 items @ Regular Lane 6
+[116.83] Finished Checkout - Customer 355 on Express Lane 11
+[Lane Report] Finished shopping @ 115.33, Front of line @ 115.33, Checkout ended @ 116.83 (0 customers in line, 0.00 wait time).
+[117.04] Finished Shopping - Customer 199
+Now checking out 39 items @ Regular Lane 7
+[117.64] Finished Shopping - Customer 314
+Now checking out 13 items @ Regular Lane 2
+[119.52] Arrival - Customer 302
+[119.95] Arrival - Customer 403
+[120.29] Finished Checkout - Customer 314 on Regular Lane 2
+[Lane Report] Finished shopping @ 117.64, Front of line @ 117.64, Checkout ended @ 120.29 (0 customers in line, 0.00 wait time).
+[120.38] Arrival - Customer 264
+[120.82] Finished Checkout - Customer 181 on Regular Lane 6
+[Lane Report] Finished shopping @ 115.82, Front of line @ 115.82, Checkout ended @ 120.82 (0 customers in line, 0.00 wait time).
+[120.96] Finished Shopping - Customer 264
+Now checking out 1 items @ Express Lane 10
+[120.99] Finished Checkout - Customer 199 on Regular Lane 7
+[Lane Report] Finished shopping @ 117.04, Front of line @ 117.04, Checkout ended @ 120.99 (0 customers in line, 0.00 wait time).
+[121.96] Finished Shopping - Customer 115
+Now checking out 9 items @ Express Lane 12
+[122.06] Finished Checkout - Customer 264 on Express Lane 10
+[Lane Report] Finished shopping @ 120.96, Front of line @ 120.96, Checkout ended @ 122.06 (0 customers in line, 0.00 wait time).
+[122.59] Arrival - Customer 236
+[123.86] Finished Checkout - Customer 115 on Express Lane 12
+[Lane Report] Finished shopping @ 121.96, Front of line @ 121.96, Checkout ended @ 123.86 (0 customers in line, 0.00 wait time).
+[123.89] Finished Shopping - Customer 100
+Now checking out 32 items @ Regular Lane 2
+[124.96] Arrival - Customer 449
+[125.52] Finished Shopping - Customer 214
+Now checking out 60 items @ Regular Lane 1
+[126.13] Finished Shopping - Customer 31
+Now checking out 46 items @ Regular Lane 3
+[126.22] Finished Shopping - Customer 51
+Now checking out 20 items @ Regular Lane 7
+[126.47] Arrival - Customer 194
+[127.35] Finished Shopping - Customer 281
+Now checking out 24 items @ Regular Lane 8
+[127.42] Finished Shopping - Customer 403
+Now checking out 9 items @ Express Lane 10
+[127.44] Arrival - Customer 391
+[127.49] Finished Checkout - Customer 100 on Regular Lane 2
+[Lane Report] Finished shopping @ 123.89, Front of line @ 123.89, Checkout ended @ 127.49 (0 customers in line, 0.00 wait time).
+[128.92] Finished Shopping - Customer 8
+Now checking out 60 items @ Regular Lane 2
+[128.94] Arrival - Customer 94
+[129.22] Finished Checkout - Customer 51 on Regular Lane 7
+[Lane Report] Finished shopping @ 126.22, Front of line @ 126.22, Checkout ended @ 129.22 (0 customers in line, 0.00 wait time).
+[129.32] Finished Checkout - Customer 403 on Express Lane 10
+[Lane Report] Finished shopping @ 127.42, Front of line @ 127.42, Checkout ended @ 129.32 (0 customers in line, 0.00 wait time).
+[129.65] Arrival - Customer 311
+[130.43] Finished Checkout - Customer 31 on Regular Lane 3
+[Lane Report] Finished shopping @ 126.13, Front of line @ 126.13, Checkout ended @ 130.43 (0 customers in line, 0.00 wait time).
+[130.52] Finished Checkout - Customer 214 on Regular Lane 1
+[Lane Report] Finished shopping @ 125.52, Front of line @ 125.52, Checkout ended @ 130.52 (0 customers in line, 0.00 wait time).
+[130.55] Finished Checkout - Customer 281 on Regular Lane 8
+[Lane Report] Finished shopping @ 127.35, Front of line @ 127.35, Checkout ended @ 130.55 (0 customers in line, 0.00 wait time).
+[131.03] Arrival - Customer 4
+[131.99] Finished Shopping - Customer 194
+Now checking out 6 items @ Express Lane 10
+[132.12] Arrival - Customer 92
+[132.46] Arrival - Customer 79
+[132.62] Arrival - Customer 394
+[133.59] Finished Checkout - Customer 194 on Express Lane 10
+[Lane Report] Finished shopping @ 131.99, Front of line @ 131.99, Checkout ended @ 133.59 (0 customers in line, 0.00 wait time).
+[133.92] Finished Checkout - Customer 8 on Regular Lane 2
+[Lane Report] Finished shopping @ 128.92, Front of line @ 128.92, Checkout ended @ 133.92 (0 customers in line, 0.00 wait time).
+[134.60] Arrival - Customer 452
+[134.61] Finished Shopping - Customer 171
+Now checking out 55 items @ Regular Lane 4
+[135.16] Arrival - Customer 397
+[135.86] Finished Shopping - Customer 302
+Now checking out 19 items @ Regular Lane 9
+[137.44] Arrival - Customer 251
+[138.24] Finished Shopping - Customer 391
+Now checking out 12 items @ Express Lane 10
+[138.81] Finished Checkout - Customer 302 on Regular Lane 9
+[Lane Report] Finished shopping @ 135.86, Front of line @ 135.86, Checkout ended @ 138.81 (0 customers in line, 0.00 wait time).
+[139.36] Finished Checkout - Customer 171 on Regular Lane 4
+[Lane Report] Finished shopping @ 134.61, Front of line @ 134.61, Checkout ended @ 139.36 (0 customers in line, 0.00 wait time).
+[139.47] Arrival - Customer 284
+[140.44] Finished Checkout - Customer 391 on Express Lane 10
+[Lane Report] Finished shopping @ 138.24, Front of line @ 138.24, Checkout ended @ 140.44 (0 customers in line, 0.00 wait time).
+[140.78] Finished Shopping - Customer 452
+Now checking out 6 items @ Express Lane 10
+[142.38] Finished Checkout - Customer 452 on Express Lane 10
+[Lane Report] Finished shopping @ 140.78, Front of line @ 140.78, Checkout ended @ 142.38 (0 customers in line, 0.00 wait time).
+[143.10] Finished Shopping - Customer 394
+Now checking out 8 items @ Express Lane 10
+[143.79] Finished Shopping - Customer 284
+Now checking out 8 items @ Express Lane 12
+[144.29] Arrival - Customer 107
+[144.43] Arrival - Customer 57
+[144.90] Finished Checkout - Customer 394 on Express Lane 10
+[Lane Report] Finished shopping @ 143.10, Front of line @ 143.10, Checkout ended @ 144.90 (0 customers in line, 0.00 wait time).
+[145.42] Finished Shopping - Customer 311
+Now checking out 19 items @ Regular Lane 3
+[145.59] Finished Checkout - Customer 284 on Express Lane 12
+[Lane Report] Finished shopping @ 143.79, Front of line @ 143.79, Checkout ended @ 145.59 (0 customers in line, 0.00 wait time).
+[145.66] Finished Shopping - Customer 4
+Now checking out 19 items @ Regular Lane 8
+[145.98] Arrival - Customer 157
+[146.86] Arrival - Customer 75
+[147.03] Arrival - Customer 131
+[147.06] Finished Shopping - Customer 157
+Now checking out 2 items @ Express Lane 10
+[148.26] Finished Checkout - Customer 157 on Express Lane 10
+[Lane Report] Finished shopping @ 147.06, Front of line @ 147.06, Checkout ended @ 148.26 (0 customers in line, 0.00 wait time).
+[148.31] Arrival - Customer 133
+[148.37] Finished Checkout - Customer 311 on Regular Lane 3
+[Lane Report] Finished shopping @ 145.42, Front of line @ 145.42, Checkout ended @ 148.37 (0 customers in line, 0.00 wait time).
+[148.38] Arrival - Customer 111
+[148.61] Finished Checkout - Customer 4 on Regular Lane 8
+[Lane Report] Finished shopping @ 145.66, Front of line @ 145.66, Checkout ended @ 148.61 (0 customers in line, 0.00 wait time).
+[151.48] Finished Shopping - Customer 254
+Now checking out 60 items @ Regular Lane 1
+[151.58] Arrival - Customer 271
+[152.13] Arrival - Customer 123
+[152.20] Arrival - Customer 226
+[153.05] Arrival - Customer 66
+[153.31] Arrival - Customer 190
+[154.43] Arrival - Customer 310
+[154.79] Finished Shopping - Customer 133
+Now checking out 6 items @ Express Lane 10
+[154.87] Finished Shopping - Customer 131
+Now checking out 8 items @ Express Lane 12
+[154.92] Arrival - Customer 46
+[154.93] Arrival - Customer 116
+[155.23] Finished Shopping - Customer 57
+Now checking out 10 items @ Express Lane 11
+[155.34] Finished Shopping - Customer 449
+Now checking out 49 items @ Regular Lane 4
+[156.39] Finished Checkout - Customer 133 on Express Lane 10
+[Lane Report] Finished shopping @ 154.79, Front of line @ 154.79, Checkout ended @ 156.39 (0 customers in line, 0.00 wait time).
+[156.42] Arrival - Customer 117
+[156.48] Finished Checkout - Customer 254 on Regular Lane 1
+[Lane Report] Finished shopping @ 151.48, Front of line @ 151.48, Checkout ended @ 156.48 (0 customers in line, 0.00 wait time).
+[156.67] Finished Checkout - Customer 131 on Express Lane 12
+[Lane Report] Finished shopping @ 154.87, Front of line @ 154.87, Checkout ended @ 156.67 (0 customers in line, 0.00 wait time).
+[157.19] Arrival - Customer 322
+[157.23] Finished Checkout - Customer 57 on Express Lane 11
+[Lane Report] Finished shopping @ 155.23, Front of line @ 155.23, Checkout ended @ 157.23 (0 customers in line, 0.00 wait time).
+[157.40] Finished Shopping - Customer 79
+Now checking out 43 items @ Regular Lane 5
+[158.20] Arrival - Customer 370
+[159.28] Finished Shopping - Customer 271
+Now checking out 10 items @ Express Lane 10
+[159.79] Finished Checkout - Customer 449 on Regular Lane 4
+[Lane Report] Finished shopping @ 155.34, Front of line @ 155.34, Checkout ended @ 159.79 (0 customers in line, 0.00 wait time).
+[161.15] Finished Shopping - Customer 310
+Now checking out 6 items @ Express Lane 12
+[161.28] Finished Checkout - Customer 271 on Express Lane 10
+[Lane Report] Finished shopping @ 159.28, Front of line @ 159.28, Checkout ended @ 161.28 (0 customers in line, 0.00 wait time).
+[161.39] Arrival - Customer 231
+[161.55] Finished Checkout - Customer 79 on Regular Lane 5
+[Lane Report] Finished shopping @ 157.40, Front of line @ 157.40, Checkout ended @ 161.55 (0 customers in line, 0.00 wait time).
+[162.71] Arrival - Customer 345
+[162.75] Finished Checkout - Customer 310 on Express Lane 12
+[Lane Report] Finished shopping @ 161.15, Front of line @ 161.15, Checkout ended @ 162.75 (0 customers in line, 0.00 wait time).
+[163.43] Arrival - Customer 54
+[163.57] Finished Shopping - Customer 116
+Now checking out 12 items @ Express Lane 10
+[164.21] Arrival - Customer 415
+[165.40] Finished Shopping - Customer 397
+Now checking out 56 items @ Regular Lane 4
+[165.55] Arrival - Customer 219
+[165.77] Finished Checkout - Customer 116 on Express Lane 10
+[Lane Report] Finished shopping @ 163.57, Front of line @ 163.57, Checkout ended @ 165.77 (0 customers in line, 0.00 wait time).
+[166.27] Finished Shopping - Customer 236
+Now checking out 56 items @ Regular Lane 9
+[167.69] Arrival - Customer 441
+[167.97] Finished Shopping - Customer 46
+Now checking out 9 items @ Express Lane 10
+[168.46] Finished Shopping - Customer 92
+Now checking out 46 items @ Regular Lane 7
+[169.87] Finished Checkout - Customer 46 on Express Lane 10
+[Lane Report] Finished shopping @ 167.97, Front of line @ 167.97, Checkout ended @ 169.87 (0 customers in line, 0.00 wait time).
+[170.20] Finished Checkout - Customer 397 on Regular Lane 4
+[Lane Report] Finished shopping @ 165.40, Front of line @ 165.40, Checkout ended @ 170.20 (0 customers in line, 0.00 wait time).
+[171.07] Finished Checkout - Customer 236 on Regular Lane 9
+[Lane Report] Finished shopping @ 166.27, Front of line @ 166.27, Checkout ended @ 171.07 (0 customers in line, 0.00 wait time).
+[171.11] Arrival - Customer 293
+[171.26] Arrival - Customer 416
+[171.89] Finished Shopping - Customer 441
+Now checking out 6 items @ Express Lane 10
+[172.24] Finished Shopping - Customer 251
+Now checking out 60 items @ Regular Lane 8
+[172.76] Finished Checkout - Customer 92 on Regular Lane 7
+[Lane Report] Finished shopping @ 168.46, Front of line @ 168.46, Checkout ended @ 172.76 (0 customers in line, 0.00 wait time).
+[173.49] Finished Checkout - Customer 441 on Express Lane 10
+[Lane Report] Finished shopping @ 171.89, Front of line @ 171.89, Checkout ended @ 173.49 (0 customers in line, 0.00 wait time).
+[174.18] Finished Shopping - Customer 111
+Now checking out 43 items @ Regular Lane 5
+[174.51] Arrival - Customer 357
+[174.53] Finished Shopping - Customer 94
+Now checking out 47 items @ Regular Lane 3
+[175.04] Arrival - Customer 37
+[175.33] Finished Shopping - Customer 123
+Now checking out 40 items @ Regular Lane 7
+[176.50] Finished Shopping - Customer 37
+Now checking out 1 items @ Express Lane 10
+[176.55] Finished Shopping - Customer 357
+Now checking out 4 items @ Express Lane 12
+[177.24] Finished Checkout - Customer 251 on Regular Lane 8
+[Lane Report] Finished shopping @ 172.24, Front of line @ 172.24, Checkout ended @ 177.24 (0 customers in line, 0.00 wait time).
+[177.60] Finished Checkout - Customer 37 on Express Lane 10
+[Lane Report] Finished shopping @ 176.50, Front of line @ 176.50, Checkout ended @ 177.60 (0 customers in line, 0.00 wait time).
+[177.68] Arrival - Customer 404
+[177.95] Finished Checkout - Customer 357 on Express Lane 12
+[Lane Report] Finished shopping @ 176.55, Front of line @ 176.55, Checkout ended @ 177.95 (0 customers in line, 0.00 wait time).
+[178.33] Finished Checkout - Customer 111 on Regular Lane 5
+[Lane Report] Finished shopping @ 174.18, Front of line @ 174.18, Checkout ended @ 178.33 (0 customers in line, 0.00 wait time).
+[178.88] Finished Checkout - Customer 94 on Regular Lane 3
+[Lane Report] Finished shopping @ 174.53, Front of line @ 174.53, Checkout ended @ 178.88 (0 customers in line, 0.00 wait time).
+[179.33] Finished Checkout - Customer 123 on Regular Lane 7
+[Lane Report] Finished shopping @ 175.33, Front of line @ 175.33, Checkout ended @ 179.33 (0 customers in line, 0.00 wait time).
+[179.97] Arrival - Customer 294
+[181.19] Finished Shopping - Customer 345
+Now checking out 22 items @ Regular Lane 9
+[181.29] Arrival - Customer 11
+[182.06] Arrival - Customer 152
+[182.27] Arrival - Customer 134
+[182.81] Finished Shopping - Customer 190
+Now checking out 59 items @ Regular Lane 1
+[183.94] Finished Shopping - Customer 226
+Now checking out 46 items @ Regular Lane 8
+[184.13] Arrival - Customer 354
+[184.13] Finished Shopping - Customer 66
+Now checking out 37 items @ Regular Lane 7
+[184.29] Finished Checkout - Customer 345 on Regular Lane 9
+[Lane Report] Finished shopping @ 181.19, Front of line @ 181.19, Checkout ended @ 184.29 (0 customers in line, 0.00 wait time).
+[185.14] Arrival - Customer 401
+[185.24] Finished Shopping - Customer 152
+Now checking out 6 items @ Express Lane 10
+[185.70] Arrival - Customer 445
+[186.04] Finished Shopping - Customer 370
+Now checking out 24 items @ Regular Lane 6
+[186.41] Arrival - Customer 439
+[186.84] Finished Checkout - Customer 152 on Express Lane 10
+[Lane Report] Finished shopping @ 185.24, Front of line @ 185.24, Checkout ended @ 186.84 (0 customers in line, 0.00 wait time).
+[187.76] Finished Checkout - Customer 190 on Regular Lane 1
+[Lane Report] Finished shopping @ 182.81, Front of line @ 182.81, Checkout ended @ 187.76 (0 customers in line, 0.00 wait time).
+[187.98] Finished Checkout - Customer 66 on Regular Lane 7
+[Lane Report] Finished shopping @ 184.13, Front of line @ 184.13, Checkout ended @ 187.98 (0 customers in line, 0.00 wait time).
+[188.24] Finished Checkout - Customer 226 on Regular Lane 8
+[Lane Report] Finished shopping @ 183.94, Front of line @ 183.94, Checkout ended @ 188.24 (0 customers in line, 0.00 wait time).
+[188.41] Arrival - Customer 323
+[188.50] Finished Shopping - Customer 401
+Now checking out 6 items @ Express Lane 10
+[189.24] Finished Checkout - Customer 370 on Regular Lane 6
+[Lane Report] Finished shopping @ 186.04, Front of line @ 186.04, Checkout ended @ 189.24 (0 customers in line, 0.00 wait time).
+[189.44] Finished Shopping - Customer 415
+Now checking out 29 items @ Regular Lane 5
+[189.66] Arrival - Customer 433
+[190.05] Finished Shopping - Customer 322
+Now checking out 31 items @ Regular Lane 6
+[190.08] Arrival - Customer 47
+[190.10] Finished Checkout - Customer 401 on Express Lane 10
+[Lane Report] Finished shopping @ 188.50, Front of line @ 188.50, Checkout ended @ 190.10 (0 customers in line, 0.00 wait time).
+[190.31] Arrival - Customer 209
+[191.23] Finished Shopping - Customer 134
+Now checking out 8 items @ Express Lane 10
+[191.47] Arrival - Customer 7
+[191.99] Finished Shopping - Customer 231
+Now checking out 30 items @ Regular Lane 3
+[192.45] Finished Shopping - Customer 75
+Now checking out 47 items @ Regular Lane 2
+[192.89] Finished Checkout - Customer 415 on Regular Lane 5
+[Lane Report] Finished shopping @ 189.44, Front of line @ 189.44, Checkout ended @ 192.89 (0 customers in line, 0.00 wait time).
+[193.03] Finished Checkout - Customer 134 on Express Lane 10
+[Lane Report] Finished shopping @ 191.23, Front of line @ 191.23, Checkout ended @ 193.03 (0 customers in line, 0.00 wait time).
+[193.60] Finished Checkout - Customer 322 on Regular Lane 6
+[Lane Report] Finished shopping @ 190.05, Front of line @ 190.05, Checkout ended @ 193.60 (0 customers in line, 0.00 wait time).
+[194.65] Finished Shopping - Customer 209
+Now checking out 7 items @ Express Lane 10
+[195.49] Finished Checkout - Customer 231 on Regular Lane 3
+[Lane Report] Finished shopping @ 191.99, Front of line @ 191.99, Checkout ended @ 195.49 (0 customers in line, 0.00 wait time).
+[195.61] Arrival - Customer 448
+[195.90] Arrival - Customer 244
+[196.07] Arrival - Customer 367
+[196.22] Finished Shopping - Customer 416
+Now checking out 48 items @ Regular Lane 7
+[196.35] Finished Checkout - Customer 209 on Express Lane 10
+[Lane Report] Finished shopping @ 194.65, Front of line @ 194.65, Checkout ended @ 196.35 (0 customers in line, 0.00 wait time).
+[196.80] Finished Checkout - Customer 75 on Regular Lane 2
+[Lane Report] Finished shopping @ 192.45, Front of line @ 192.45, Checkout ended @ 196.80 (0 customers in line, 0.00 wait time).
+[196.82] Arrival - Customer 161
+[197.44] Arrival - Customer 279
+[197.95] Arrival - Customer 58
+[198.36] Arrival - Customer 365
+[199.69] Finished Shopping - Customer 448
+Now checking out 4 items @ Express Lane 10
+[199.82] Arrival - Customer 347
+[200.62] Finished Checkout - Customer 416 on Regular Lane 7
+[Lane Report] Finished shopping @ 196.22, Front of line @ 196.22, Checkout ended @ 200.62 (0 customers in line, 0.00 wait time).
+[201.09] Finished Checkout - Customer 448 on Express Lane 10
+[Lane Report] Finished shopping @ 199.69, Front of line @ 199.69, Checkout ended @ 201.09 (0 customers in line, 0.00 wait time).
+[201.90] Finished Shopping - Customer 58
+Now checking out 5 items @ Express Lane 10
+[202.51] Arrival - Customer 246
+[203.40] Finished Checkout - Customer 58 on Express Lane 10
+[Lane Report] Finished shopping @ 201.90, Front of line @ 201.90, Checkout ended @ 203.40 (0 customers in line, 0.00 wait time).
+[204.33] Arrival - Customer 407
+[205.04] Arrival - Customer 162
+[205.35] Finished Shopping - Customer 367
+Now checking out 8 items @ Express Lane 10
+[205.44] Finished Shopping - Customer 445
+Now checking out 14 items @ Regular Lane 8
+[206.01] Finished Shopping - Customer 294
+Now checking out 28 items @ Regular Lane 6
+[206.25] Finished Shopping - Customer 219
+Now checking out 37 items @ Regular Lane 3
+[206.49] Finished Shopping - Customer 11
+Now checking out 21 items @ Regular Lane 5
+[206.88] Finished Shopping - Customer 117
+Now checking out 58 items @ Regular Lane 7
+[207.15] Finished Checkout - Customer 367 on Express Lane 10
+[Lane Report] Finished shopping @ 205.35, Front of line @ 205.35, Checkout ended @ 207.15 (0 customers in line, 0.00 wait time).
+[207.57] Arrival - Customer 230
+[207.59] Finished Shopping - Customer 293
+Now checking out 48 items @ Regular Lane 1
+[207.73] Finished Shopping - Customer 354
+Now checking out 40 items @ Regular Lane 4
+[208.09] Arrival - Customer 102
+[208.14] Finished Checkout - Customer 445 on Regular Lane 8
+[Lane Report] Finished shopping @ 205.44, Front of line @ 205.44, Checkout ended @ 208.14 (0 customers in line, 0.00 wait time).
+[209.20] Finished Shopping - Customer 439
+Now checking out 43 items @ Regular Lane 9
+[209.41] Finished Checkout - Customer 294 on Regular Lane 6
+[Lane Report] Finished shopping @ 206.01, Front of line @ 206.01, Checkout ended @ 209.41 (0 customers in line, 0.00 wait time).
+[209.54] Finished Checkout - Customer 11 on Regular Lane 5
+[Lane Report] Finished shopping @ 206.49, Front of line @ 206.49, Checkout ended @ 209.54 (0 customers in line, 0.00 wait time).
+[210.10] Finished Checkout - Customer 219 on Regular Lane 3
+[Lane Report] Finished shopping @ 206.25, Front of line @ 206.25, Checkout ended @ 210.10 (0 customers in line, 0.00 wait time).
+[211.28] Finished Shopping - Customer 404
+Now checking out 30 items @ Regular Lane 6
+[211.40] Arrival - Customer 196
+[211.44] Finished Shopping - Customer 407
+Now checking out 9 items @ Express Lane 10
+[211.73] Finished Checkout - Customer 354 on Regular Lane 4
+[Lane Report] Finished shopping @ 207.73, Front of line @ 207.73, Checkout ended @ 211.73 (0 customers in line, 0.00 wait time).
+[211.78] Finished Checkout - Customer 117 on Regular Lane 7
+[Lane Report] Finished shopping @ 206.88, Front of line @ 206.88, Checkout ended @ 211.78 (0 customers in line, 0.00 wait time).
+[211.83] Finished Shopping - Customer 54
+Now checking out 40 items @ Regular Lane 4
+[211.99] Finished Checkout - Customer 293 on Regular Lane 1
+[Lane Report] Finished shopping @ 207.59, Front of line @ 207.59, Checkout ended @ 211.99 (0 customers in line, 0.00 wait time).
+[213.34] Finished Checkout - Customer 407 on Express Lane 10
+[Lane Report] Finished shopping @ 211.44, Front of line @ 211.44, Checkout ended @ 213.34 (0 customers in line, 0.00 wait time).
+[213.35] Finished Checkout - Customer 439 on Regular Lane 9
+[Lane Report] Finished shopping @ 209.20, Front of line @ 209.20, Checkout ended @ 213.35 (0 customers in line, 0.00 wait time).
+[213.55] Arrival - Customer 28
+[213.83] Arrival - Customer 303
+[214.68] Arrival - Customer 296
+[214.78] Finished Checkout - Customer 404 on Regular Lane 6
+[Lane Report] Finished shopping @ 211.28, Front of line @ 211.28, Checkout ended @ 214.78 (0 customers in line, 0.00 wait time).
+[214.91] Arrival - Customer 141
+[215.55] Finished Shopping - Customer 323
+Now checking out 23 items @ Regular Lane 2
+[215.83] Finished Shopping - Customer 296
+Now checking out 1 items @ Express Lane 10
+[215.83] Finished Checkout - Customer 54 on Regular Lane 4
+[Lane Report] Finished shopping @ 211.83, Front of line @ 211.83, Checkout ended @ 215.83 (0 customers in line, 0.00 wait time).
+[215.92] Arrival - Customer 35
+[216.80] Arrival - Customer 38
+[216.93] Finished Checkout - Customer 296 on Express Lane 10
+[Lane Report] Finished shopping @ 215.83, Front of line @ 215.83, Checkout ended @ 216.93 (0 customers in line, 0.00 wait time).
+[218.53] Arrival - Customer 387
+[218.56] Finished Shopping - Customer 7
+Now checking out 21 items @ Regular Lane 7
+[218.61] Finished Shopping - Customer 196
+Now checking out 7 items @ Express Lane 10
+[218.70] Finished Checkout - Customer 323 on Regular Lane 2
+[Lane Report] Finished shopping @ 215.55, Front of line @ 215.55, Checkout ended @ 218.70 (0 customers in line, 0.00 wait time).
+[218.97] Arrival - Customer 39
+[219.22] Finished Shopping - Customer 107
+Now checking out 59 items @ Regular Lane 9
+[219.30] Finished Shopping - Customer 433
+Now checking out 38 items @ Regular Lane 3
+[220.17] Arrival - Customer 353
+[220.31] Finished Checkout - Customer 196 on Express Lane 10
+[Lane Report] Finished shopping @ 218.61, Front of line @ 218.61, Checkout ended @ 220.31 (0 customers in line, 0.00 wait time).
+[221.30] Arrival - Customer 5
+[221.58] Finished Shopping - Customer 244
+Now checking out 24 items @ Regular Lane 8
+[221.61] Finished Checkout - Customer 7 on Regular Lane 7
+[Lane Report] Finished shopping @ 218.56, Front of line @ 218.56, Checkout ended @ 221.61 (0 customers in line, 0.00 wait time).
+[221.73] Finished Shopping - Customer 141
+Now checking out 11 items @ Express Lane 10
+[221.75] Arrival - Customer 21
+[222.96] Arrival - Customer 327
+[223.20] Finished Checkout - Customer 433 on Regular Lane 3
+[Lane Report] Finished shopping @ 219.30, Front of line @ 219.30, Checkout ended @ 223.20 (0 customers in line, 0.00 wait time).
+[223.23] Arrival - Customer 70
+[223.83] Finished Checkout - Customer 141 on Express Lane 10
+[Lane Report] Finished shopping @ 221.73, Front of line @ 221.73, Checkout ended @ 223.83 (0 customers in line, 0.00 wait time).
+[224.17] Finished Checkout - Customer 107 on Regular Lane 9
+[Lane Report] Finished shopping @ 219.22, Front of line @ 219.22, Checkout ended @ 224.17 (0 customers in line, 0.00 wait time).
+[224.78] Finished Checkout - Customer 244 on Regular Lane 8
+[Lane Report] Finished shopping @ 221.58, Front of line @ 221.58, Checkout ended @ 224.78 (0 customers in line, 0.00 wait time).
+[227.52] Arrival - Customer 360
+[228.33] Arrival - Customer 295
+[229.23] Arrival - Customer 257
+[229.35] Finished Shopping - Customer 47
+Now checking out 51 items @ Regular Lane 9
+[229.52] Arrival - Customer 89
+[230.13] Arrival - Customer 288
+[231.02] Arrival - Customer 104
+[231.47] Arrival - Customer 262
+[231.65] Finished Shopping - Customer 21
+Now checking out 11 items @ Express Lane 10
+[231.69] Arrival - Customer 430
+[232.59] Finished Shopping - Customer 327
+Now checking out 9 items @ Express Lane 12
+[233.01] Arrival - Customer 255
+[233.75] Finished Checkout - Customer 21 on Express Lane 10
+[Lane Report] Finished shopping @ 231.65, Front of line @ 231.65, Checkout ended @ 233.75 (0 customers in line, 0.00 wait time).
+[233.90] Finished Checkout - Customer 47 on Regular Lane 9
+[Lane Report] Finished shopping @ 229.35, Front of line @ 229.35, Checkout ended @ 233.90 (0 customers in line, 0.00 wait time).
+[234.18] Finished Shopping - Customer 38
+Now checking out 22 items @ Regular Lane 2
+[234.49] Finished Checkout - Customer 327 on Express Lane 12
+[Lane Report] Finished shopping @ 232.59, Front of line @ 232.59, Checkout ended @ 234.49 (0 customers in line, 0.00 wait time).
+[234.99] Finished Shopping - Customer 295
+Now checking out 6 items @ Express Lane 10
+[235.88] Finished Shopping - Customer 288
+Now checking out 5 items @ Express Lane 12
+[235.89] Finished Shopping - Customer 257
+Now checking out 6 items @ Express Lane 11
+[236.10] Finished Shopping - Customer 5
+Now checking out 20 items @ Regular Lane 9
+[236.32] Arrival - Customer 424
+[236.59] Finished Checkout - Customer 295 on Express Lane 10
+[Lane Report] Finished shopping @ 234.99, Front of line @ 234.99, Checkout ended @ 236.59 (0 customers in line, 0.00 wait time).
+[236.61] Finished Shopping - Customer 303
+Now checking out 34 items @ Regular Lane 5
+[237.28] Finished Checkout - Customer 38 on Regular Lane 2
+[Lane Report] Finished shopping @ 234.18, Front of line @ 234.18, Checkout ended @ 237.28 (0 customers in line, 0.00 wait time).
+[237.38] Finished Checkout - Customer 288 on Express Lane 12
+[Lane Report] Finished shopping @ 235.88, Front of line @ 235.88, Checkout ended @ 237.38 (0 customers in line, 0.00 wait time).
+[237.49] Finished Checkout - Customer 257 on Express Lane 11
+[Lane Report] Finished shopping @ 235.89, Front of line @ 235.89, Checkout ended @ 237.49 (0 customers in line, 0.00 wait time).
+[237.99] Arrival - Customer 275
+[239.10] Finished Checkout - Customer 5 on Regular Lane 9
+[Lane Report] Finished shopping @ 236.10, Front of line @ 236.10, Checkout ended @ 239.10 (0 customers in line, 0.00 wait time).
+[239.63] Finished Shopping - Customer 246
+Now checking out 58 items @ Regular Lane 7
+[240.24] Finished Shopping - Customer 162
+Now checking out 55 items @ Regular Lane 4
+[240.31] Finished Checkout - Customer 303 on Regular Lane 5
+[Lane Report] Finished shopping @ 236.61, Front of line @ 236.61, Checkout ended @ 240.31 (0 customers in line, 0.00 wait time).
+[240.89] Finished Shopping - Customer 387
+Now checking out 43 items @ Regular Lane 8
+[242.07] Arrival - Customer 122
+[242.29] Arrival - Customer 320
+[242.87] Finished Shopping - Customer 262
+Now checking out 10 items @ Express Lane 10
+[243.48] Arrival - Customer 223
+[244.52] Arrival - Customer 154
+[244.53] Finished Checkout - Customer 246 on Regular Lane 7
+[Lane Report] Finished shopping @ 239.63, Front of line @ 239.63, Checkout ended @ 244.53 (0 customers in line, 0.00 wait time).
+[244.57] Finished Shopping - Customer 360
+Now checking out 31 items @ Regular Lane 1
+[244.58] Arrival - Customer 24
+[244.65] Finished Shopping - Customer 70
+Now checking out 21 items @ Regular Lane 7
+[244.87] Finished Checkout - Customer 262 on Express Lane 10
+[Lane Report] Finished shopping @ 242.87, Front of line @ 242.87, Checkout ended @ 244.87 (0 customers in line, 0.00 wait time).
+[244.99] Finished Checkout - Customer 162 on Regular Lane 4
+[Lane Report] Finished shopping @ 240.24, Front of line @ 240.24, Checkout ended @ 244.99 (0 customers in line, 0.00 wait time).
+[245.04] Finished Checkout - Customer 387 on Regular Lane 8
+[Lane Report] Finished shopping @ 240.89, Front of line @ 240.89, Checkout ended @ 245.04 (0 customers in line, 0.00 wait time).
+[245.71] Arrival - Customer 319
+[245.90] Finished Shopping - Customer 89
+Now checking out 26 items @ Regular Lane 8
+[246.31] Finished Shopping - Customer 161
+Now checking out 49 items @ Regular Lane 5
+[246.31] Arrival - Customer 138
+[246.67] Arrival - Customer 118
+[246.82] Arrival - Customer 329
+[247.41] Finished Shopping - Customer 255
+Now checking out 15 items @ Regular Lane 6
+[247.70] Finished Checkout - Customer 70 on Regular Lane 7
+[Lane Report] Finished shopping @ 244.65, Front of line @ 244.65, Checkout ended @ 247.70 (0 customers in line, 0.00 wait time).
+[247.84] Arrival - Customer 83
+[247.97] Arrival - Customer 371
+[248.12] Finished Checkout - Customer 360 on Regular Lane 1
+[Lane Report] Finished shopping @ 244.57, Front of line @ 244.57, Checkout ended @ 248.12 (0 customers in line, 0.00 wait time).
+[248.24] Finished Shopping - Customer 223
+Now checking out 7 items @ Express Lane 10
+[248.63] Arrival - Customer 128
+[248.66] Finished Shopping - Customer 347
+Now checking out 33 items @ Regular Lane 2
+[248.71] Arrival - Customer 334
+[248.89] Finished Shopping - Customer 102
+Now checking out 60 items @ Regular Lane 4
+[249.20] Finished Checkout - Customer 89 on Regular Lane 8
+[Lane Report] Finished shopping @ 245.90, Front of line @ 245.90, Checkout ended @ 249.20 (0 customers in line, 0.00 wait time).
+[249.67] Arrival - Customer 127
+[249.67] Finished Shopping - Customer 154
+Now checking out 5 items @ Express Lane 12
+[249.94] Finished Checkout - Customer 223 on Express Lane 10
+[Lane Report] Finished shopping @ 248.24, Front of line @ 248.24, Checkout ended @ 249.94 (0 customers in line, 0.00 wait time).
+[250.03] Finished Shopping - Customer 128
+Now checking out 2 items @ Express Lane 10
+[250.16] Finished Checkout - Customer 255 on Regular Lane 6
+[Lane Report] Finished shopping @ 247.41, Front of line @ 247.41, Checkout ended @ 250.16 (0 customers in line, 0.00 wait time).
+[250.67] Finished Shopping - Customer 329
+Now checking out 7 items @ Express Lane 11
+[250.76] Finished Checkout - Customer 161 on Regular Lane 5
+[Lane Report] Finished shopping @ 246.31, Front of line @ 246.31, Checkout ended @ 250.76 (0 customers in line, 0.00 wait time).
+[251.17] Finished Checkout - Customer 154 on Express Lane 12
+[Lane Report] Finished shopping @ 249.67, Front of line @ 249.67, Checkout ended @ 251.17 (0 customers in line, 0.00 wait time).
+[251.23] Finished Checkout - Customer 128 on Express Lane 10
+[Lane Report] Finished shopping @ 250.03, Front of line @ 250.03, Checkout ended @ 251.23 (0 customers in line, 0.00 wait time).
+[251.96] Finished Shopping - Customer 319
+Now checking out 5 items @ Express Lane 10
+[252.01] Arrival - Customer 42
+[252.31] Finished Checkout - Customer 347 on Regular Lane 2
+[Lane Report] Finished shopping @ 248.66, Front of line @ 248.66, Checkout ended @ 252.31 (0 customers in line, 0.00 wait time).
+[252.37] Finished Checkout - Customer 329 on Express Lane 11
+[Lane Report] Finished shopping @ 250.67, Front of line @ 250.67, Checkout ended @ 252.37 (0 customers in line, 0.00 wait time).
+[252.87] Arrival - Customer 341
+[253.46] Finished Checkout - Customer 319 on Express Lane 10
+[Lane Report] Finished shopping @ 251.96, Front of line @ 251.96, Checkout ended @ 253.46 (0 customers in line, 0.00 wait time).
+[253.89] Finished Checkout - Customer 102 on Regular Lane 4
+[Lane Report] Finished shopping @ 248.89, Front of line @ 248.89, Checkout ended @ 253.89 (0 customers in line, 0.00 wait time).
+[254.18] Arrival - Customer 429
+[254.37] Arrival - Customer 422
+[254.65] Finished Shopping - Customer 127
+Now checking out 6 items @ Express Lane 10
+[255.86] Arrival - Customer 32
+[256.25] Finished Checkout - Customer 127 on Express Lane 10
+[Lane Report] Finished shopping @ 254.65, Front of line @ 254.65, Checkout ended @ 256.25 (0 customers in line, 0.00 wait time).
+[256.47] Arrival - Customer 30
+[256.72] Finished Shopping - Customer 279
+Now checking out 52 items @ Regular Lane 5
+[256.74] Finished Shopping - Customer 353
+Now checking out 53 items @ Regular Lane 3
+[256.97] Finished Shopping - Customer 83
+Now checking out 11 items @ Express Lane 10
+[257.10] Arrival - Customer 130
+[257.44] Finished Shopping - Customer 122
+Now checking out 29 items @ Regular Lane 9
+[259.07] Finished Checkout - Customer 83 on Express Lane 10
+[Lane Report] Finished shopping @ 256.97, Front of line @ 256.97, Checkout ended @ 259.07 (0 customers in line, 0.00 wait time).
+[259.12] Finished Shopping - Customer 42
+Now checking out 9 items @ Express Lane 10
+[260.72] Finished Shopping - Customer 104
+Now checking out 54 items @ Regular Lane 2
+[260.89] Finished Checkout - Customer 122 on Regular Lane 9
+[Lane Report] Finished shopping @ 257.44, Front of line @ 257.44, Checkout ended @ 260.89 (0 customers in line, 0.00 wait time).
+[261.02] Finished Checkout - Customer 42 on Express Lane 10
+[Lane Report] Finished shopping @ 259.12, Front of line @ 259.12, Checkout ended @ 261.02 (0 customers in line, 0.00 wait time).
+[261.32] Finished Checkout - Customer 279 on Regular Lane 5
+[Lane Report] Finished shopping @ 256.72, Front of line @ 256.72, Checkout ended @ 261.32 (0 customers in line, 0.00 wait time).
+[261.39] Finished Checkout - Customer 353 on Regular Lane 3
+[Lane Report] Finished shopping @ 256.74, Front of line @ 256.74, Checkout ended @ 261.39 (0 customers in line, 0.00 wait time).
+[261.51] Finished Shopping - Customer 230
+Now checking out 58 items @ Regular Lane 6
+[263.54] Arrival - Customer 41
+[263.86] Arrival - Customer 330
+[264.06] Finished Shopping - Customer 365
+Now checking out 45 items @ Regular Lane 1
+[264.68] Finished Shopping - Customer 32
+Now checking out 9 items @ Express Lane 10
+[265.42] Finished Checkout - Customer 104 on Regular Lane 2
+[Lane Report] Finished shopping @ 260.72, Front of line @ 260.72, Checkout ended @ 265.42 (0 customers in line, 0.00 wait time).
+[265.69] Arrival - Customer 332
+[266.33] Finished Shopping - Customer 332
+Now checking out 1 items @ Express Lane 12
+[266.41] Finished Checkout - Customer 230 on Regular Lane 6
+[Lane Report] Finished shopping @ 261.51, Front of line @ 261.51, Checkout ended @ 266.41 (0 customers in line, 0.00 wait time).
+[266.45] Finished Shopping - Customer 130
+Now checking out 17 items @ Regular Lane 9
+[266.58] Finished Checkout - Customer 32 on Express Lane 10
+[Lane Report] Finished shopping @ 264.68, Front of line @ 264.68, Checkout ended @ 266.58 (0 customers in line, 0.00 wait time).
+[266.73] Finished Shopping - Customer 320
+Now checking out 26 items @ Regular Lane 5
+[266.89] Arrival - Customer 308
+[267.43] Finished Checkout - Customer 332 on Express Lane 12
+[Lane Report] Finished shopping @ 266.33, Front of line @ 266.33, Checkout ended @ 267.43 (0 customers in line, 0.00 wait time).
+[268.17] Finished Shopping - Customer 30
+Now checking out 10 items @ Express Lane 10
+[268.31] Finished Checkout - Customer 365 on Regular Lane 1
+[Lane Report] Finished shopping @ 264.06, Front of line @ 264.06, Checkout ended @ 268.31 (0 customers in line, 0.00 wait time).
+[268.41] Arrival - Customer 432
+[268.43] Finished Shopping - Customer 334
+Now checking out 17 items @ Regular Lane 7
+[269.30] Finished Checkout - Customer 130 on Regular Lane 9
+[Lane Report] Finished shopping @ 266.45, Front of line @ 266.45, Checkout ended @ 269.30 (0 customers in line, 0.00 wait time).
+[269.86] Arrival - Customer 420
+[270.03] Finished Checkout - Customer 320 on Regular Lane 5
+[Lane Report] Finished shopping @ 266.73, Front of line @ 266.73, Checkout ended @ 270.03 (0 customers in line, 0.00 wait time).
+[270.10] Finished Shopping - Customer 41
+Now checking out 8 items @ Express Lane 12
+[270.17] Finished Checkout - Customer 30 on Express Lane 10
+[Lane Report] Finished shopping @ 268.17, Front of line @ 268.17, Checkout ended @ 270.17 (0 customers in line, 0.00 wait time).
+[271.28] Finished Checkout - Customer 334 on Regular Lane 7
+[Lane Report] Finished shopping @ 268.43, Front of line @ 268.43, Checkout ended @ 271.28 (0 customers in line, 0.00 wait time).
+[271.90] Finished Checkout - Customer 41 on Express Lane 12
+[Lane Report] Finished shopping @ 270.10, Front of line @ 270.10, Checkout ended @ 271.90 (0 customers in line, 0.00 wait time).
+[273.90] Arrival - Customer 396
+[274.26] Finished Shopping - Customer 39
+Now checking out 57 items @ Regular Lane 9
+[274.27] Finished Shopping - Customer 118
+Now checking out 23 items @ Regular Lane 6
+[274.57] Finished Shopping - Customer 28
+Now checking out 54 items @ Regular Lane 3
+[275.75] Arrival - Customer 324
+[277.42] Finished Checkout - Customer 118 on Regular Lane 6
+[Lane Report] Finished shopping @ 274.27, Front of line @ 274.27, Checkout ended @ 277.42 (0 customers in line, 0.00 wait time).
+[277.48] Arrival - Customer 96
+[277.56] Finished Shopping - Customer 396
+Now checking out 3 items @ Express Lane 10
+[277.72] Finished Shopping - Customer 424
+Now checking out 45 items @ Regular Lane 6
+[278.21] Finished Shopping - Customer 371
+Now checking out 36 items @ Regular Lane 8
+[278.86] Finished Checkout - Customer 396 on Express Lane 10
+[Lane Report] Finished shopping @ 277.56, Front of line @ 277.56, Checkout ended @ 278.86 (0 customers in line, 0.00 wait time).
+[279.11] Finished Checkout - Customer 39 on Regular Lane 9
+[Lane Report] Finished shopping @ 274.26, Front of line @ 274.26, Checkout ended @ 279.11 (0 customers in line, 0.00 wait time).
+[279.27] Finished Checkout - Customer 28 on Regular Lane 3
+[Lane Report] Finished shopping @ 274.57, Front of line @ 274.57, Checkout ended @ 279.27 (0 customers in line, 0.00 wait time).
+[279.27] Arrival - Customer 301
+[280.89] Finished Shopping - Customer 432
+Now checking out 12 items @ Express Lane 10
+[281.03] Arrival - Customer 29
+[281.97] Finished Checkout - Customer 424 on Regular Lane 6
+[Lane Report] Finished shopping @ 277.72, Front of line @ 277.72, Checkout ended @ 281.97 (0 customers in line, 0.00 wait time).
+[282.01] Finished Checkout - Customer 371 on Regular Lane 8
+[Lane Report] Finished shopping @ 278.21, Front of line @ 278.21, Checkout ended @ 282.01 (0 customers in line, 0.00 wait time).
+[282.03] Finished Shopping - Customer 138
+Now checking out 47 items @ Regular Lane 2
+[282.09] Finished Shopping - Customer 430
+Now checking out 60 items @ Regular Lane 7
+[283.09] Finished Checkout - Customer 432 on Express Lane 10
+[Lane Report] Finished shopping @ 280.89, Front of line @ 280.89, Checkout ended @ 283.09 (0 customers in line, 0.00 wait time).
+[283.58] Arrival - Customer 272
+[283.80] Arrival - Customer 40
+[283.98] Finished Shopping - Customer 422
+Now checking out 47 items @ Regular Lane 5
+[284.40] Arrival - Customer 170
+[285.50] Arrival - Customer 211
+[285.57] Finished Shopping - Customer 301
+Now checking out 9 items @ Express Lane 10
+[286.38] Finished Checkout - Customer 138 on Regular Lane 2
+[Lane Report] Finished shopping @ 282.03, Front of line @ 282.03, Checkout ended @ 286.38 (0 customers in line, 0.00 wait time).
+[286.50] Arrival - Customer 325
+[286.55] Finished Shopping - Customer 40
+Now checking out 5 items @ Express Lane 12
+[287.09] Finished Checkout - Customer 430 on Regular Lane 7
+[Lane Report] Finished shopping @ 282.09, Front of line @ 282.09, Checkout ended @ 287.09 (0 customers in line, 0.00 wait time).
+[287.47] Finished Checkout - Customer 301 on Express Lane 10
+[Lane Report] Finished shopping @ 285.57, Front of line @ 285.57, Checkout ended @ 287.47 (0 customers in line, 0.00 wait time).
+[287.47] Arrival - Customer 53
+[287.76] Arrival - Customer 198
+[287.81] Arrival - Customer 56
+[288.05] Finished Checkout - Customer 40 on Express Lane 12
+[Lane Report] Finished shopping @ 286.55, Front of line @ 286.55, Checkout ended @ 288.05 (0 customers in line, 0.00 wait time).
+[288.33] Finished Checkout - Customer 422 on Regular Lane 5
+[Lane Report] Finished shopping @ 283.98, Front of line @ 283.98, Checkout ended @ 288.33 (0 customers in line, 0.00 wait time).
+[288.57] Finished Shopping - Customer 341
+Now checking out 42 items @ Regular Lane 2
+[289.24] Finished Shopping - Customer 35
+Now checking out 52 items @ Regular Lane 1
+[289.55] Finished Shopping - Customer 308
+Now checking out 22 items @ Regular Lane 5
+[292.65] Finished Checkout - Customer 308 on Regular Lane 5
+[Lane Report] Finished shopping @ 289.55, Front of line @ 289.55, Checkout ended @ 292.65 (0 customers in line, 0.00 wait time).
+[292.67] Finished Checkout - Customer 341 on Regular Lane 2
+[Lane Report] Finished shopping @ 288.57, Front of line @ 288.57, Checkout ended @ 292.67 (0 customers in line, 0.00 wait time).
+[293.84] Finished Checkout - Customer 35 on Regular Lane 1
+[Lane Report] Finished shopping @ 289.24, Front of line @ 289.24, Checkout ended @ 293.84 (0 customers in line, 0.00 wait time).
+[295.46] Finished Shopping - Customer 198
+Now checking out 7 items @ Express Lane 10
+[295.72] Finished Shopping - Customer 56
+Now checking out 7 items @ Express Lane 12
+[296.01] Arrival - Customer 163
+[296.16] Finished Shopping - Customer 170
+Now checking out 21 items @ Regular Lane 1
+[296.70] Arrival - Customer 62
+[297.00] Finished Shopping - Customer 211
+Now checking out 23 items @ Regular Lane 4
+[297.02] Finished Shopping - Customer 272
+Now checking out 24 items @ Regular Lane 9
+[297.16] Finished Checkout - Customer 198 on Express Lane 10
+[Lane Report] Finished shopping @ 295.46, Front of line @ 295.46, Checkout ended @ 297.16 (0 customers in line, 0.00 wait time).
+[297.33] Finished Shopping - Customer 163
+Now checking out 2 items @ Express Lane 10
+[297.42] Finished Checkout - Customer 56 on Express Lane 12
+[Lane Report] Finished shopping @ 295.72, Front of line @ 295.72, Checkout ended @ 297.42 (0 customers in line, 0.00 wait time).
+[298.18] Finished Shopping - Customer 420
+Now checking out 48 items @ Regular Lane 5
+[298.53] Finished Checkout - Customer 163 on Express Lane 10
+[Lane Report] Finished shopping @ 297.33, Front of line @ 297.33, Checkout ended @ 298.53 (0 customers in line, 0.00 wait time).
+[299.21] Finished Checkout - Customer 170 on Regular Lane 1
+[Lane Report] Finished shopping @ 296.16, Front of line @ 296.16, Checkout ended @ 299.21 (0 customers in line, 0.00 wait time).
+[299.91] Finished Shopping - Customer 275
+Now checking out 48 items @ Regular Lane 1
+[300.15] Finished Checkout - Customer 211 on Regular Lane 4
+[Lane Report] Finished shopping @ 297.00, Front of line @ 297.00, Checkout ended @ 300.15 (0 customers in line, 0.00 wait time).
+[300.22] Finished Checkout - Customer 272 on Regular Lane 9
+[Lane Report] Finished shopping @ 297.02, Front of line @ 297.02, Checkout ended @ 300.22 (0 customers in line, 0.00 wait time).
+[300.38] Finished Shopping - Customer 24
+Now checking out 60 items @ Regular Lane 9
+[301.64] Arrival - Customer 69
+[301.97] Finished Shopping - Customer 324
+Now checking out 38 items @ Regular Lane 8
+[302.58] Finished Checkout - Customer 420 on Regular Lane 5
+[Lane Report] Finished shopping @ 298.18, Front of line @ 298.18, Checkout ended @ 302.58 (0 customers in line, 0.00 wait time).
+[302.59] Arrival - Customer 85
+[303.74] Finished Shopping - Customer 85
+Now checking out 1 items @ Express Lane 10
+[303.90] Finished Shopping - Customer 429
+Now checking out 44 items @ Regular Lane 4
+[304.31] Finished Checkout - Customer 275 on Regular Lane 1
+[Lane Report] Finished shopping @ 299.91, Front of line @ 299.91, Checkout ended @ 304.31 (0 customers in line, 0.00 wait time).
+[304.84] Finished Checkout - Customer 85 on Express Lane 10
+[Lane Report] Finished shopping @ 303.74, Front of line @ 303.74, Checkout ended @ 304.84 (0 customers in line, 0.00 wait time).
+[305.15] Arrival - Customer 235
+[305.38] Finished Checkout - Customer 24 on Regular Lane 9
+[Lane Report] Finished shopping @ 300.38, Front of line @ 300.38, Checkout ended @ 305.38 (0 customers in line, 0.00 wait time).
+[305.87] Finished Checkout - Customer 324 on Regular Lane 8
+[Lane Report] Finished shopping @ 301.97, Front of line @ 301.97, Checkout ended @ 305.87 (0 customers in line, 0.00 wait time).
+[306.46] Arrival - Customer 285
+[308.10] Finished Checkout - Customer 429 on Regular Lane 4
+[Lane Report] Finished shopping @ 303.90, Front of line @ 303.90, Checkout ended @ 308.10 (0 customers in line, 0.00 wait time).
+[308.62] Arrival - Customer 307
+[310.97] Arrival - Customer 135
+[312.29] Finished Shopping - Customer 135
+Now checking out 2 items @ Express Lane 10
+[312.52] Finished Shopping - Customer 69
+Now checking out 8 items @ Express Lane 12
+[313.49] Finished Checkout - Customer 135 on Express Lane 10
+[Lane Report] Finished shopping @ 312.29, Front of line @ 312.29, Checkout ended @ 313.49 (0 customers in line, 0.00 wait time).
+[314.32] Finished Checkout - Customer 69 on Express Lane 12
+[Lane Report] Finished shopping @ 312.52, Front of line @ 312.52, Checkout ended @ 314.32 (0 customers in line, 0.00 wait time).
+[315.88] Finished Shopping - Customer 62
+Now checking out 14 items @ Regular Lane 3
+[317.42] Finished Shopping - Customer 307
+Now checking out 11 items @ Express Lane 10
+[317.65] Finished Shopping - Customer 235
+Now checking out 25 items @ Regular Lane 9
+[318.44] Finished Shopping - Customer 29
+Now checking out 43 items @ Regular Lane 2
+[318.58] Finished Checkout - Customer 62 on Regular Lane 3
+[Lane Report] Finished shopping @ 315.88, Front of line @ 315.88, Checkout ended @ 318.58 (0 customers in line, 0.00 wait time).
+[318.88] Arrival - Customer 169
+[319.52] Finished Checkout - Customer 307 on Express Lane 10
+[Lane Report] Finished shopping @ 317.42, Front of line @ 317.42, Checkout ended @ 319.52 (0 customers in line, 0.00 wait time).
+[320.90] Finished Checkout - Customer 235 on Regular Lane 9
+[Lane Report] Finished shopping @ 317.65, Front of line @ 317.65, Checkout ended @ 320.90 (0 customers in line, 0.00 wait time).
+[320.91] Arrival - Customer 36
+[322.59] Finished Checkout - Customer 29 on Regular Lane 2
+[Lane Report] Finished shopping @ 318.44, Front of line @ 318.44, Checkout ended @ 322.59 (0 customers in line, 0.00 wait time).
+[323.30] Finished Shopping - Customer 96
+Now checking out 58 items @ Regular Lane 2
+[325.52] Arrival - Customer 125
+[326.35] Finished Shopping - Customer 36
+Now checking out 4 items @ Express Lane 10
+[327.31] Arrival - Customer 361
+[327.75] Finished Checkout - Customer 36 on Express Lane 10
+[Lane Report] Finished shopping @ 326.35, Front of line @ 326.35, Checkout ended @ 327.75 (0 customers in line, 0.00 wait time).
+[328.20] Finished Checkout - Customer 96 on Regular Lane 2
+[Lane Report] Finished shopping @ 323.30, Front of line @ 323.30, Checkout ended @ 328.20 (0 customers in line, 0.00 wait time).
+[328.77] Arrival - Customer 97
+[330.33] Arrival - Customer 45
+[331.14] Finished Shopping - Customer 325
+Now checking out 36 items @ Regular Lane 6
+[331.52] Finished Shopping - Customer 125
+Now checking out 5 items @ Express Lane 10
+[332.06] Arrival - Customer 444
+[332.08] Arrival - Customer 73
+[333.02] Finished Checkout - Customer 125 on Express Lane 10
+[Lane Report] Finished shopping @ 331.52, Front of line @ 331.52, Checkout ended @ 333.02 (0 customers in line, 0.00 wait time).
+[333.07] Finished Shopping - Customer 361
+Now checking out 4 items @ Express Lane 10
+[333.15] Arrival - Customer 220
+[333.94] Arrival - Customer 426
+[334.47] Finished Checkout - Customer 361 on Express Lane 10
+[Lane Report] Finished shopping @ 333.07, Front of line @ 333.07, Checkout ended @ 334.47 (0 customers in line, 0.00 wait time).
+[334.94] Finished Checkout - Customer 325 on Regular Lane 6
+[Lane Report] Finished shopping @ 331.14, Front of line @ 331.14, Checkout ended @ 334.94 (0 customers in line, 0.00 wait time).
+[335.19] Finished Shopping - Customer 220
+Now checking out 2 items @ Express Lane 10
+[336.39] Finished Checkout - Customer 220 on Express Lane 10
+[Lane Report] Finished shopping @ 335.19, Front of line @ 335.19, Checkout ended @ 336.39 (0 customers in line, 0.00 wait time).
+[337.43] Finished Shopping - Customer 169
+Now checking out 35 items @ Regular Lane 7
+[338.06] Finished Shopping - Customer 330
+Now checking out 53 items @ Regular Lane 2
+[340.49] Arrival - Customer 418
+[341.18] Finished Checkout - Customer 169 on Regular Lane 7
+[Lane Report] Finished shopping @ 337.43, Front of line @ 337.43, Checkout ended @ 341.18 (0 customers in line, 0.00 wait time).
+[341.44] Arrival - Customer 81
+[342.71] Finished Checkout - Customer 330 on Regular Lane 2
+[Lane Report] Finished shopping @ 338.06, Front of line @ 338.06, Checkout ended @ 342.71 (0 customers in line, 0.00 wait time).
+[343.27] Finished Shopping - Customer 97
+Now checking out 10 items @ Express Lane 10
+[345.27] Finished Checkout - Customer 97 on Express Lane 10
+[Lane Report] Finished shopping @ 343.27, Front of line @ 343.27, Checkout ended @ 345.27 (0 customers in line, 0.00 wait time).
+[346.80] Arrival - Customer 417
+[347.08] Finished Shopping - Customer 73
+Now checking out 20 items @ Regular Lane 2
+[347.08] Finished Shopping - Customer 81
+Now checking out 6 items @ Express Lane 10
+[347.55] Arrival - Customer 372
+[348.68] Finished Checkout - Customer 81 on Express Lane 10
+[Lane Report] Finished shopping @ 347.08, Front of line @ 347.08, Checkout ended @ 348.68 (0 customers in line, 0.00 wait time).
+[348.81] Arrival - Customer 13
+[350.08] Finished Checkout - Customer 73 on Regular Lane 2
+[Lane Report] Finished shopping @ 347.08, Front of line @ 347.08, Checkout ended @ 350.08 (0 customers in line, 0.00 wait time).
+[351.13] Arrival - Customer 313
+[351.60] Finished Shopping - Customer 53
+Now checking out 53 items @ Regular Lane 3
+[352.52] Arrival - Customer 364
+[353.22] Arrival - Customer 287
+[353.48] Arrival - Customer 168
+[354.33] Arrival - Customer 101
+[354.86] Finished Shopping - Customer 285
+Now checking out 40 items @ Regular Lane 6
+[355.48] Arrival - Customer 78
+[355.75] Arrival - Customer 447
+[356.25] Finished Checkout - Customer 53 on Regular Lane 3
+[Lane Report] Finished shopping @ 351.60, Front of line @ 351.60, Checkout ended @ 356.25 (0 customers in line, 0.00 wait time).
+[358.18] Finished Shopping - Customer 101
+Now checking out 7 items @ Express Lane 10
+[358.86] Finished Checkout - Customer 285 on Regular Lane 6
+[Lane Report] Finished shopping @ 354.86, Front of line @ 354.86, Checkout ended @ 358.86 (0 customers in line, 0.00 wait time).
+[359.88] Finished Checkout - Customer 101 on Express Lane 10
+[Lane Report] Finished shopping @ 358.18, Front of line @ 358.18, Checkout ended @ 359.88 (0 customers in line, 0.00 wait time).
+[361.13] Finished Shopping - Customer 13
+Now checking out 14 items @ Regular Lane 6
+[362.05] Finished Shopping - Customer 447
+Now checking out 9 items @ Express Lane 10
+[363.19] Arrival - Customer 304
+[363.83] Finished Checkout - Customer 13 on Regular Lane 6
+[Lane Report] Finished shopping @ 361.13, Front of line @ 361.13, Checkout ended @ 363.83 (0 customers in line, 0.00 wait time).
+[363.93] Finished Shopping - Customer 372
+Now checking out 13 items @ Regular Lane 2
+[363.95] Finished Checkout - Customer 447 on Express Lane 10
+[Lane Report] Finished shopping @ 362.05, Front of line @ 362.05, Checkout ended @ 363.95 (0 customers in line, 0.00 wait time).
+[365.52] Finished Shopping - Customer 45
+Now checking out 51 items @ Regular Lane 3
+[366.30] Arrival - Customer 421
+[366.58] Finished Checkout - Customer 372 on Regular Lane 2
+[Lane Report] Finished shopping @ 363.93, Front of line @ 363.93, Checkout ended @ 366.58 (0 customers in line, 0.00 wait time).
+[366.62] Arrival - Customer 399
+[366.90] Arrival - Customer 176
+[367.82] Finished Shopping - Customer 399
+Now checking out 2 items @ Express Lane 10
+[368.07] Arrival - Customer 266
+[369.02] Finished Checkout - Customer 399 on Express Lane 10
+[Lane Report] Finished shopping @ 367.82, Front of line @ 367.82, Checkout ended @ 369.02 (0 customers in line, 0.00 wait time).
+[369.59] Arrival - Customer 428
+[369.75] Finished Shopping - Customer 266
+Now checking out 3 items @ Express Lane 10
+[370.07] Finished Checkout - Customer 45 on Regular Lane 3
+[Lane Report] Finished shopping @ 365.52, Front of line @ 365.52, Checkout ended @ 370.07 (0 customers in line, 0.00 wait time).
+[371.05] Finished Checkout - Customer 266 on Express Lane 10
+[Lane Report] Finished shopping @ 369.75, Front of line @ 369.75, Checkout ended @ 371.05 (0 customers in line, 0.00 wait time).
+[371.26] Finished Shopping - Customer 444
+Now checking out 40 items @ Regular Lane 1
+[371.57] Finished Shopping - Customer 418
+Now checking out 28 items @ Regular Lane 7
+[373.31] Arrival - Customer 363
+[374.60] Arrival - Customer 105
+[374.97] Finished Checkout - Customer 418 on Regular Lane 7
+[Lane Report] Finished shopping @ 371.57, Front of line @ 371.57, Checkout ended @ 374.97 (0 customers in line, 0.00 wait time).
+[375.02] Arrival - Customer 369
+[375.18] Arrival - Customer 380
+[375.26] Finished Checkout - Customer 444 on Regular Lane 1
+[Lane Report] Finished shopping @ 371.26, Front of line @ 371.26, Checkout ended @ 375.26 (0 customers in line, 0.00 wait time).
+[375.32] Arrival - Customer 200
+[376.93] Finished Shopping - Customer 313
+Now checking out 20 items @ Regular Lane 8
+[377.61] Arrival - Customer 34
+[378.38] Finished Shopping - Customer 380
+Now checking out 5 items @ Express Lane 10
+[379.06] Finished Shopping - Customer 426
+Now checking out 47 items @ Regular Lane 7
+[379.13] Finished Shopping - Customer 200
+Now checking out 3 items @ Express Lane 12
+[379.18] Arrival - Customer 22
+[379.29] Arrival - Customer 435
+[379.88] Finished Checkout - Customer 380 on Express Lane 10
+[Lane Report] Finished shopping @ 378.38, Front of line @ 378.38, Checkout ended @ 379.88 (0 customers in line, 0.00 wait time).
+[379.93] Finished Checkout - Customer 313 on Regular Lane 8
+[Lane Report] Finished shopping @ 376.93, Front of line @ 376.93, Checkout ended @ 379.93 (0 customers in line, 0.00 wait time).
+[380.12] Finished Shopping - Customer 78
+Now checking out 22 items @ Regular Lane 2
+[380.43] Finished Checkout - Customer 200 on Express Lane 12
+[Lane Report] Finished shopping @ 379.13, Front of line @ 379.13, Checkout ended @ 380.43 (0 customers in line, 0.00 wait time).
+[381.25] Finished Shopping - Customer 304
+Now checking out 21 items @ Regular Lane 9
+[381.31] Finished Shopping - Customer 287
+Now checking out 53 items @ Regular Lane 4
+[383.06] Finished Shopping - Customer 168
+Now checking out 51 items @ Regular Lane 3
+[383.22] Finished Checkout - Customer 78 on Regular Lane 2
+[Lane Report] Finished shopping @ 380.12, Front of line @ 380.12, Checkout ended @ 383.22 (0 customers in line, 0.00 wait time).
+[383.39] Arrival - Customer 12
+[383.41] Finished Checkout - Customer 426 on Regular Lane 7
+[Lane Report] Finished shopping @ 379.06, Front of line @ 379.06, Checkout ended @ 383.41 (0 customers in line, 0.00 wait time).
+[384.12] Arrival - Customer 277
+[384.30] Finished Checkout - Customer 304 on Regular Lane 9
+[Lane Report] Finished shopping @ 381.25, Front of line @ 381.25, Checkout ended @ 384.30 (0 customers in line, 0.00 wait time).
+[385.01] Finished Shopping - Customer 22
+Now checking out 11 items @ Express Lane 10
+[385.96] Finished Checkout - Customer 287 on Regular Lane 4
+[Lane Report] Finished shopping @ 381.31, Front of line @ 381.31, Checkout ended @ 385.96 (0 customers in line, 0.00 wait time).
+[387.11] Finished Checkout - Customer 22 on Express Lane 10
+[Lane Report] Finished shopping @ 385.01, Front of line @ 385.01, Checkout ended @ 387.11 (0 customers in line, 0.00 wait time).
+[387.61] Finished Checkout - Customer 168 on Regular Lane 3
+[Lane Report] Finished shopping @ 383.06, Front of line @ 383.06, Checkout ended @ 387.61 (0 customers in line, 0.00 wait time).
+[387.77] Arrival - Customer 278
+[387.97] Arrival - Customer 203
+[388.31] Finished Shopping - Customer 12
+Now checking out 6 items @ Express Lane 10
+[388.46] Arrival - Customer 351
+[389.45] Arrival - Customer 188
+[389.91] Finished Checkout - Customer 12 on Express Lane 10
+[Lane Report] Finished shopping @ 388.31, Front of line @ 388.31, Checkout ended @ 389.91 (0 customers in line, 0.00 wait time).
+[390.51] Arrival - Customer 344
+[393.19] Arrival - Customer 132
+[395.00] Finished Shopping - Customer 364
+Now checking out 59 items @ Regular Lane 3
+[395.92] Arrival - Customer 331
+[396.22] Arrival - Customer 414
+[397.03] Finished Shopping - Customer 428
+Now checking out 28 items @ Regular Lane 4
+[397.50] Finished Shopping - Customer 421
+Now checking out 48 items @ Regular Lane 7
+[398.01] Arrival - Customer 140
+[398.10] Arrival - Customer 103
+[399.00] Finished Shopping - Customer 34
+Now checking out 23 items @ Regular Lane 9
+[399.19] Finished Shopping - Customer 331
+Now checking out 3 items @ Express Lane 10
+[399.72] Finished Shopping - Customer 417
+Now checking out 49 items @ Regular Lane 2
+[399.95] Finished Checkout - Customer 364 on Regular Lane 3
+[Lane Report] Finished shopping @ 395.00, Front of line @ 395.00, Checkout ended @ 399.95 (0 customers in line, 0.00 wait time).
+[400.43] Finished Checkout - Customer 428 on Regular Lane 4
+[Lane Report] Finished shopping @ 397.03, Front of line @ 397.03, Checkout ended @ 400.43 (0 customers in line, 0.00 wait time).
+[400.49] Finished Checkout - Customer 331 on Express Lane 10
+[Lane Report] Finished shopping @ 399.19, Front of line @ 399.19, Checkout ended @ 400.49 (0 customers in line, 0.00 wait time).
+[401.29] Arrival - Customer 6
+[401.49] Arrival - Customer 93
+[401.90] Finished Checkout - Customer 421 on Regular Lane 7
+[Lane Report] Finished shopping @ 397.50, Front of line @ 397.50, Checkout ended @ 401.90 (0 customers in line, 0.00 wait time).
+[402.03] Arrival - Customer 342
+[402.15] Finished Checkout - Customer 34 on Regular Lane 9
+[Lane Report] Finished shopping @ 399.00, Front of line @ 399.00, Checkout ended @ 402.15 (0 customers in line, 0.00 wait time).
+[403.36] Finished Shopping - Customer 414
+Now checking out 7 items @ Express Lane 10
+[403.45] Finished Shopping - Customer 188
+Now checking out 14 items @ Regular Lane 6
+[404.05] Finished Shopping - Customer 363
+Now checking out 58 items @ Regular Lane 5
+[404.17] Arrival - Customer 306
+[404.17] Finished Checkout - Customer 417 on Regular Lane 2
+[Lane Report] Finished shopping @ 399.72, Front of line @ 399.72, Checkout ended @ 404.17 (0 customers in line, 0.00 wait time).
+[404.19] Arrival - Customer 315
+[405.06] Finished Checkout - Customer 414 on Express Lane 10
+[Lane Report] Finished shopping @ 403.36, Front of line @ 403.36, Checkout ended @ 405.06 (0 customers in line, 0.00 wait time).
+[405.12] Finished Shopping - Customer 369
+Now checking out 43 items @ Regular Lane 9
+[405.61] Finished Shopping - Customer 203
+Now checking out 12 items @ Express Lane 10
+[406.15] Finished Checkout - Customer 188 on Regular Lane 6
+[Lane Report] Finished shopping @ 403.45, Front of line @ 403.45, Checkout ended @ 406.15 (0 customers in line, 0.00 wait time).
+[407.81] Finished Checkout - Customer 203 on Express Lane 10
+[Lane Report] Finished shopping @ 405.61, Front of line @ 405.61, Checkout ended @ 407.81 (0 customers in line, 0.00 wait time).
+[408.15] Finished Shopping - Customer 103
+Now checking out 15 items @ Regular Lane 8
+[408.60] Finished Shopping - Customer 105
+Now checking out 50 items @ Regular Lane 3
+[408.87] Arrival - Customer 337
+[408.95] Finished Checkout - Customer 363 on Regular Lane 5
+[Lane Report] Finished shopping @ 404.05, Front of line @ 404.05, Checkout ended @ 408.95 (0 customers in line, 0.00 wait time).
+[409.27] Finished Checkout - Customer 369 on Regular Lane 9
+[Lane Report] Finished shopping @ 405.12, Front of line @ 405.12, Checkout ended @ 409.27 (0 customers in line, 0.00 wait time).
+[409.34] Arrival - Customer 139
+[409.83] Finished Shopping - Customer 342
+Now checking out 6 items @ Express Lane 10
+[410.23] Finished Shopping - Customer 140
+Now checking out 13 items @ Regular Lane 2
+[410.77] Arrival - Customer 202
+[410.90] Finished Checkout - Customer 103 on Regular Lane 8
+[Lane Report] Finished shopping @ 408.15, Front of line @ 408.15, Checkout ended @ 410.90 (0 customers in line, 0.00 wait time).
+[411.08] Arrival - Customer 184
+[411.43] Finished Checkout - Customer 342 on Express Lane 10
+[Lane Report] Finished shopping @ 409.83, Front of line @ 409.83, Checkout ended @ 411.43 (0 customers in line, 0.00 wait time).
+[411.49] Finished Shopping - Customer 6
+Now checking out 15 items @ Regular Lane 4
+[411.63] Arrival - Customer 192
+[412.02] Arrival - Customer 321
+[412.14] Finished Shopping - Customer 176
+Now checking out 58 items @ Regular Lane 5
+[412.88] Finished Checkout - Customer 140 on Regular Lane 2
+[Lane Report] Finished shopping @ 410.23, Front of line @ 410.23, Checkout ended @ 412.88 (0 customers in line, 0.00 wait time).
+[413.10] Finished Checkout - Customer 105 on Regular Lane 3
+[Lane Report] Finished shopping @ 408.60, Front of line @ 408.60, Checkout ended @ 413.10 (0 customers in line, 0.00 wait time).
+[413.73] Finished Shopping - Customer 93
+Now checking out 24 items @ Regular Lane 1
+[413.79] Arrival - Customer 207
+[414.12] Arrival - Customer 250
+[414.24] Finished Checkout - Customer 6 on Regular Lane 4
+[Lane Report] Finished shopping @ 411.49, Front of line @ 411.49, Checkout ended @ 414.24 (0 customers in line, 0.00 wait time).
+[414.55] Finished Shopping - Customer 435
+Now checking out 43 items @ Regular Lane 2
+[415.17] Arrival - Customer 216
+[416.93] Finished Checkout - Customer 93 on Regular Lane 1
+[Lane Report] Finished shopping @ 413.73, Front of line @ 413.73, Checkout ended @ 416.93 (0 customers in line, 0.00 wait time).
+[416.96] Arrival - Customer 10
+[417.04] Finished Checkout - Customer 176 on Regular Lane 5
+[Lane Report] Finished shopping @ 412.14, Front of line @ 412.14, Checkout ended @ 417.04 (0 customers in line, 0.00 wait time).
+[418.36] Arrival - Customer 390
+[418.38] Arrival - Customer 366
+[418.70] Finished Checkout - Customer 435 on Regular Lane 2
+[Lane Report] Finished shopping @ 414.55, Front of line @ 414.55, Checkout ended @ 418.70 (0 customers in line, 0.00 wait time).
+[419.07] Finished Shopping - Customer 192
+Now checking out 6 items @ Express Lane 10
+[420.67] Finished Checkout - Customer 192 on Express Lane 10
+[Lane Report] Finished shopping @ 419.07, Front of line @ 419.07, Checkout ended @ 420.67 (0 customers in line, 0.00 wait time).
+[421.04] Arrival - Customer 359
+[423.23] Finished Shopping - Customer 184
+Now checking out 9 items @ Express Lane 10
+[423.32] Finished Shopping - Customer 250
+Now checking out 10 items @ Express Lane 12
+[423.71] Finished Shopping - Customer 315
+Now checking out 16 items @ Regular Lane 7
+[424.06] Arrival - Customer 156
+[424.49] Arrival - Customer 402
+[425.13] Finished Checkout - Customer 184 on Express Lane 10
+[Lane Report] Finished shopping @ 423.23, Front of line @ 423.23, Checkout ended @ 425.13 (0 customers in line, 0.00 wait time).
+[425.32] Finished Checkout - Customer 250 on Express Lane 12
+[Lane Report] Finished shopping @ 423.32, Front of line @ 423.32, Checkout ended @ 425.32 (0 customers in line, 0.00 wait time).
+[425.59] Arrival - Customer 113
+[426.18] Arrival - Customer 106
+[426.51] Finished Checkout - Customer 315 on Regular Lane 7
+[Lane Report] Finished shopping @ 423.71, Front of line @ 423.71, Checkout ended @ 426.51 (0 customers in line, 0.00 wait time).
+[427.27] Finished Shopping - Customer 202
+Now checking out 33 items @ Regular Lane 7
+[430.69] Finished Shopping - Customer 113
+Now checking out 10 items @ Express Lane 10
+[430.92] Finished Checkout - Customer 202 on Regular Lane 7
+[Lane Report] Finished shopping @ 427.27, Front of line @ 427.27, Checkout ended @ 430.92 (0 customers in line, 0.00 wait time).
+[431.16] Finished Shopping - Customer 277
+Now checking out 42 items @ Regular Lane 1
+[431.18] Finished Shopping - Customer 139
+Now checking out 21 items @ Regular Lane 9
+[432.11] Finished Shopping - Customer 306
+Now checking out 22 items @ Regular Lane 5
+[432.52] Arrival - Customer 419
+[432.69] Finished Checkout - Customer 113 on Express Lane 10
+[Lane Report] Finished shopping @ 430.69, Front of line @ 430.69, Checkout ended @ 432.69 (0 customers in line, 0.00 wait time).
+[432.83] Finished Shopping - Customer 402
+Now checking out 6 items @ Express Lane 10
+[433.35] Arrival - Customer 1
+[433.50] Finished Shopping - Customer 106
+Now checking out 6 items @ Express Lane 12
+[433.54] Finished Shopping - Customer 390
+Now checking out 22 items @ Regular Lane 6
+[433.78] Finished Shopping - Customer 10
+Now checking out 29 items @ Regular Lane 8
+[434.06] Finished Shopping - Customer 156
+Now checking out 8 items @ Express Lane 11
+[434.23] Finished Checkout - Customer 139 on Regular Lane 9
+[Lane Report] Finished shopping @ 431.18, Front of line @ 431.18, Checkout ended @ 434.23 (0 customers in line, 0.00 wait time).
+[434.43] Finished Checkout - Customer 402 on Express Lane 10
+[Lane Report] Finished shopping @ 432.83, Front of line @ 432.83, Checkout ended @ 434.43 (0 customers in line, 0.00 wait time).
+[435.10] Finished Checkout - Customer 106 on Express Lane 12
+[Lane Report] Finished shopping @ 433.50, Front of line @ 433.50, Checkout ended @ 435.10 (0 customers in line, 0.00 wait time).
+[435.21] Finished Checkout - Customer 306 on Regular Lane 5
+[Lane Report] Finished shopping @ 432.11, Front of line @ 432.11, Checkout ended @ 435.21 (0 customers in line, 0.00 wait time).
+[435.26] Finished Checkout - Customer 277 on Regular Lane 1
+[Lane Report] Finished shopping @ 431.16, Front of line @ 431.16, Checkout ended @ 435.26 (0 customers in line, 0.00 wait time).
+[435.74] Arrival - Customer 265
+[435.86] Finished Checkout - Customer 156 on Express Lane 11
+[Lane Report] Finished shopping @ 434.06, Front of line @ 434.06, Checkout ended @ 435.86 (0 customers in line, 0.00 wait time).
+[436.64] Finished Checkout - Customer 390 on Regular Lane 6
+[Lane Report] Finished shopping @ 433.54, Front of line @ 433.54, Checkout ended @ 436.64 (0 customers in line, 0.00 wait time).
+[436.83] Arrival - Customer 50
+[437.20] Arrival - Customer 373
+[437.23] Finished Checkout - Customer 10 on Regular Lane 8
+[Lane Report] Finished shopping @ 433.78, Front of line @ 433.78, Checkout ended @ 437.23 (0 customers in line, 0.00 wait time).
+[438.35] Arrival - Customer 91
+[438.71] Finished Shopping - Customer 1
+Now checking out 4 items @ Express Lane 10
+[439.10] Arrival - Customer 305
+[439.27] Arrival - Customer 381
+[440.11] Finished Checkout - Customer 1 on Express Lane 10
+[Lane Report] Finished shopping @ 438.71, Front of line @ 438.71, Checkout ended @ 440.11 (0 customers in line, 0.00 wait time).
+[440.91] Finished Shopping - Customer 344
+Now checking out 48 items @ Regular Lane 1
+[442.33] Arrival - Customer 248
+[444.57] Finished Shopping - Customer 337
+Now checking out 51 items @ Regular Lane 8
+[445.31] Finished Checkout - Customer 344 on Regular Lane 1
+[Lane Report] Finished shopping @ 440.91, Front of line @ 440.91, Checkout ended @ 445.31 (0 customers in line, 0.00 wait time).
+[445.37] Arrival - Customer 149
+[446.27] Finished Shopping - Customer 351
+Now checking out 41 items @ Regular Lane 7
+[446.42] Finished Shopping - Customer 278
+Now checking out 51 items @ Regular Lane 1
+[446.87] Finished Shopping - Customer 91
+Now checking out 6 items @ Express Lane 10
+[447.61] Arrival - Customer 269
+[448.47] Finished Checkout - Customer 91 on Express Lane 10
+[Lane Report] Finished shopping @ 446.87, Front of line @ 446.87, Checkout ended @ 448.47 (0 customers in line, 0.00 wait time).
+[448.62] Finished Shopping - Customer 305
+Now checking out 7 items @ Express Lane 10
+[449.12] Finished Checkout - Customer 337 on Regular Lane 8
+[Lane Report] Finished shopping @ 444.57, Front of line @ 444.57, Checkout ended @ 449.12 (0 customers in line, 0.00 wait time).
+[449.31] Finished Shopping - Customer 50
+Now checking out 24 items @ Regular Lane 6
+[449.53] Arrival - Customer 299
+[449.53] Arrival - Customer 317
+[449.64] Arrival - Customer 388
+[450.32] Finished Checkout - Customer 351 on Regular Lane 7
+[Lane Report] Finished shopping @ 446.27, Front of line @ 446.27, Checkout ended @ 450.32 (0 customers in line, 0.00 wait time).
+[450.32] Finished Checkout - Customer 305 on Express Lane 10
+[Lane Report] Finished shopping @ 448.62, Front of line @ 448.62, Checkout ended @ 450.32 (0 customers in line, 0.00 wait time).
+[450.39] Finished Shopping - Customer 132
+Now checking out 55 items @ Regular Lane 2
+[450.97] Finished Checkout - Customer 278 on Regular Lane 1
+[Lane Report] Finished shopping @ 446.42, Front of line @ 446.42, Checkout ended @ 450.97 (0 customers in line, 0.00 wait time).
+[451.88] Finished Shopping - Customer 366
+Now checking out 25 items @ Regular Lane 1
+[452.51] Finished Checkout - Customer 50 on Regular Lane 6
+[Lane Report] Finished shopping @ 449.31, Front of line @ 449.31, Checkout ended @ 452.51 (0 customers in line, 0.00 wait time).
+[453.83] Finished Shopping - Customer 381
+Now checking out 16 items @ Regular Lane 5
+[454.65] Finished Shopping - Customer 321
+Now checking out 29 items @ Regular Lane 9
+[454.81] Finished Shopping - Customer 269
+Now checking out 8 items @ Express Lane 10
+[454.85] Finished Shopping - Customer 317
+Now checking out 7 items @ Express Lane 12
+[455.13] Finished Checkout - Customer 366 on Regular Lane 1
+[Lane Report] Finished shopping @ 451.88, Front of line @ 451.88, Checkout ended @ 455.13 (0 customers in line, 0.00 wait time).
+[455.14] Finished Checkout - Customer 132 on Regular Lane 2
+[Lane Report] Finished shopping @ 450.39, Front of line @ 450.39, Checkout ended @ 455.14 (0 customers in line, 0.00 wait time).
+[456.40] Finished Shopping - Customer 216
+Now checking out 31 items @ Regular Lane 6
+[456.55] Finished Checkout - Customer 317 on Express Lane 12
+[Lane Report] Finished shopping @ 454.85, Front of line @ 454.85, Checkout ended @ 456.55 (0 customers in line, 0.00 wait time).
+[456.61] Finished Checkout - Customer 269 on Express Lane 10
+[Lane Report] Finished shopping @ 454.81, Front of line @ 454.81, Checkout ended @ 456.61 (0 customers in line, 0.00 wait time).
+[456.63] Finished Checkout - Customer 381 on Regular Lane 5
+[Lane Report] Finished shopping @ 453.83, Front of line @ 453.83, Checkout ended @ 456.63 (0 customers in line, 0.00 wait time).
+[457.41] Arrival - Customer 129
+[457.93] Arrival - Customer 136
+[458.10] Finished Checkout - Customer 321 on Regular Lane 9
+[Lane Report] Finished shopping @ 454.65, Front of line @ 454.65, Checkout ended @ 458.10 (0 customers in line, 0.00 wait time).
+[459.84] Arrival - Customer 260
+[459.95] Finished Checkout - Customer 216 on Regular Lane 6
+[Lane Report] Finished shopping @ 456.40, Front of line @ 456.40, Checkout ended @ 459.95 (0 customers in line, 0.00 wait time).
+[462.79] Finished Shopping - Customer 207
+Now checking out 35 items @ Regular Lane 3
+[462.93] Finished Shopping - Customer 299
+Now checking out 10 items @ Express Lane 10
+[464.93] Finished Checkout - Customer 299 on Express Lane 10
+[Lane Report] Finished shopping @ 462.93, Front of line @ 462.93, Checkout ended @ 464.93 (0 customers in line, 0.00 wait time).
+[465.65] Arrival - Customer 261
+[466.54] Finished Checkout - Customer 207 on Regular Lane 3
+[Lane Report] Finished shopping @ 462.79, Front of line @ 462.79, Checkout ended @ 466.54 (0 customers in line, 0.00 wait time).
+[469.47] Finished Shopping - Customer 248
+Now checking out 23 items @ Regular Lane 1
+[470.72] Arrival - Customer 221
+[472.62] Finished Checkout - Customer 248 on Regular Lane 1
+[Lane Report] Finished shopping @ 469.47, Front of line @ 469.47, Checkout ended @ 472.62 (0 customers in line, 0.00 wait time).
+[473.16] Finished Shopping - Customer 373
+Now checking out 58 items @ Regular Lane 1
+[473.36] Finished Shopping - Customer 129
+Now checking out 11 items @ Express Lane 10
+[473.90] Arrival - Customer 204
+[475.32] Finished Shopping - Customer 221
+Now checking out 4 items @ Express Lane 12
+[475.34] Finished Shopping - Customer 265
+Now checking out 45 items @ Regular Lane 5
+[475.46] Finished Checkout - Customer 129 on Express Lane 10
+[Lane Report] Finished shopping @ 473.36, Front of line @ 473.36, Checkout ended @ 475.46 (0 customers in line, 0.00 wait time).
+[475.81] Finished Shopping - Customer 419
+Now checking out 39 items @ Regular Lane 7
+[476.72] Finished Checkout - Customer 221 on Express Lane 12
+[Lane Report] Finished shopping @ 475.32, Front of line @ 475.32, Checkout ended @ 476.72 (0 customers in line, 0.00 wait time).
+[477.12] Finished Shopping - Customer 260
+Now checking out 24 items @ Regular Lane 8
+[477.84] Arrival - Customer 9
+[478.06] Finished Checkout - Customer 373 on Regular Lane 1
+[Lane Report] Finished shopping @ 473.16, Front of line @ 473.16, Checkout ended @ 478.06 (0 customers in line, 0.00 wait time).
+[479.59] Finished Checkout - Customer 265 on Regular Lane 5
+[Lane Report] Finished shopping @ 475.34, Front of line @ 475.34, Checkout ended @ 479.59 (0 customers in line, 0.00 wait time).
+[479.76] Finished Checkout - Customer 419 on Regular Lane 7
+[Lane Report] Finished shopping @ 475.81, Front of line @ 475.81, Checkout ended @ 479.76 (0 customers in line, 0.00 wait time).
+[480.32] Finished Checkout - Customer 260 on Regular Lane 8
+[Lane Report] Finished shopping @ 477.12, Front of line @ 477.12, Checkout ended @ 480.32 (0 customers in line, 0.00 wait time).
+[482.55] Arrival - Customer 15
+[482.59] Finished Shopping - Customer 136
+Now checking out 18 items @ Regular Lane 5
+[483.57] Finished Shopping - Customer 261
+Now checking out 16 items @ Regular Lane 8
+[485.45] Finished Shopping - Customer 359
+Now checking out 57 items @ Regular Lane 2
+[485.49] Finished Checkout - Customer 136 on Regular Lane 5
+[Lane Report] Finished shopping @ 482.59, Front of line @ 482.59, Checkout ended @ 485.49 (0 customers in line, 0.00 wait time).
+[486.28] Arrival - Customer 191
+[486.37] Finished Checkout - Customer 261 on Regular Lane 8
+[Lane Report] Finished shopping @ 483.57, Front of line @ 483.57, Checkout ended @ 486.37 (0 customers in line, 0.00 wait time).
+[486.78] Arrival - Customer 389
+[490.03] Arrival - Customer 258
+[490.30] Finished Checkout - Customer 359 on Regular Lane 2
+[Lane Report] Finished shopping @ 485.45, Front of line @ 485.45, Checkout ended @ 490.30 (0 customers in line, 0.00 wait time).
+[496.19] Finished Shopping - Customer 258
+Now checking out 11 items @ Express Lane 10
+[496.90] Arrival - Customer 423
+[497.81] Arrival - Customer 3
+[498.24] Arrival - Customer 177
+[498.29] Finished Checkout - Customer 258 on Express Lane 10
+[Lane Report] Finished shopping @ 496.19, Front of line @ 496.19, Checkout ended @ 498.29 (0 customers in line, 0.00 wait time).
+[498.84] Finished Shopping - Customer 388
+Now checking out 60 items @ Regular Lane 4
+[500.33] Arrival - Customer 59
+[503.05] Finished Shopping - Customer 149
+Now checking out 56 items @ Regular Lane 8
+[503.75] Arrival - Customer 243
+[503.84] Finished Checkout - Customer 388 on Regular Lane 4
+[Lane Report] Finished shopping @ 498.84, Front of line @ 498.84, Checkout ended @ 503.84 (0 customers in line, 0.00 wait time).
+[506.64] Finished Shopping - Customer 9
+Now checking out 24 items @ Regular Lane 9
+[507.85] Finished Checkout - Customer 149 on Regular Lane 8
+[Lane Report] Finished shopping @ 503.05, Front of line @ 503.05, Checkout ended @ 507.85 (0 customers in line, 0.00 wait time).
+[508.59] Arrival - Customer 121
+[509.15] Finished Shopping - Customer 15
+Now checking out 35 items @ Regular Lane 7
+[509.84] Finished Checkout - Customer 9 on Regular Lane 9
+[Lane Report] Finished shopping @ 506.64, Front of line @ 506.64, Checkout ended @ 509.84 (0 customers in line, 0.00 wait time).
+[511.30] Arrival - Customer 23
+[511.71] Finished Shopping - Customer 121
+Now checking out 6 items @ Express Lane 10
+[512.01] Arrival - Customer 412
+[512.21] Finished Shopping - Customer 3
+Now checking out 12 items @ Express Lane 12
+[512.90] Finished Checkout - Customer 15 on Regular Lane 7
+[Lane Report] Finished shopping @ 509.15, Front of line @ 509.15, Checkout ended @ 512.90 (0 customers in line, 0.00 wait time).
+[513.11] Arrival - Customer 178
+[513.31] Finished Checkout - Customer 121 on Express Lane 10
+[Lane Report] Finished shopping @ 511.71, Front of line @ 511.71, Checkout ended @ 513.31 (0 customers in line, 0.00 wait time).
+[513.84] Finished Shopping - Customer 23
+Now checking out 2 items @ Express Lane 10
+[514.07] Arrival - Customer 376
+[514.10] Arrival - Customer 27
+[514.41] Arrival - Customer 108
+[514.41] Finished Checkout - Customer 3 on Express Lane 12
+[Lane Report] Finished shopping @ 512.21, Front of line @ 512.21, Checkout ended @ 514.41 (0 customers in line, 0.00 wait time).
+[515.04] Finished Checkout - Customer 23 on Express Lane 10
+[Lane Report] Finished shopping @ 513.84, Front of line @ 513.84, Checkout ended @ 515.04 (0 customers in line, 0.00 wait time).
+[516.48] Finished Shopping - Customer 177
+Now checking out 24 items @ Regular Lane 8
+[518.70] Arrival - Customer 120
+[519.68] Finished Checkout - Customer 177 on Regular Lane 8
+[Lane Report] Finished shopping @ 516.48, Front of line @ 516.48, Checkout ended @ 519.68 (0 customers in line, 0.00 wait time).
+[519.89] Arrival - Customer 150
+[520.04] Finished Shopping - Customer 59
+Now checking out 27 items @ Regular Lane 1
+[522.51] Finished Shopping - Customer 108
+Now checking out 15 items @ Regular Lane 7
+[522.81] Arrival - Customer 76
+[523.39] Finished Checkout - Customer 59 on Regular Lane 1
+[Lane Report] Finished shopping @ 520.04, Front of line @ 520.04, Checkout ended @ 523.39 (0 customers in line, 0.00 wait time).
+[523.86] Arrival - Customer 238
+[525.26] Finished Checkout - Customer 108 on Regular Lane 7
+[Lane Report] Finished shopping @ 522.51, Front of line @ 522.51, Checkout ended @ 525.26 (0 customers in line, 0.00 wait time).
+[528.54] Arrival - Customer 164
+[530.34] Finished Shopping - Customer 150
+Now checking out 11 items @ Express Lane 10
+[531.50] Arrival - Customer 256
+[531.82] Arrival - Customer 16
+[531.83] Finished Shopping - Customer 243
+Now checking out 26 items @ Regular Lane 5
+[532.44] Finished Checkout - Customer 150 on Express Lane 10
+[Lane Report] Finished shopping @ 530.34, Front of line @ 530.34, Checkout ended @ 532.44 (0 customers in line, 0.00 wait time).
+[532.48] Finished Shopping - Customer 191
+Now checking out 60 items @ Regular Lane 4
+[532.85] Arrival - Customer 52
+[533.25] Arrival - Customer 268
+[534.31] Arrival - Customer 383
+[534.61] Arrival - Customer 431
+[535.13] Finished Checkout - Customer 243 on Regular Lane 5
+[Lane Report] Finished shopping @ 531.83, Front of line @ 531.83, Checkout ended @ 535.13 (0 customers in line, 0.00 wait time).
+[536.13] Finished Shopping - Customer 268
+Now checking out 2 items @ Express Lane 10
+[536.52] Arrival - Customer 425
+[537.09] Finished Shopping - Customer 431
+Now checking out 4 items @ Express Lane 12
+[537.33] Finished Checkout - Customer 268 on Express Lane 10
+[Lane Report] Finished shopping @ 536.13, Front of line @ 536.13, Checkout ended @ 537.33 (0 customers in line, 0.00 wait time).
+[537.36] Arrival - Customer 274
+[537.48] Finished Checkout - Customer 191 on Regular Lane 4
+[Lane Report] Finished shopping @ 532.48, Front of line @ 532.48, Checkout ended @ 537.48 (0 customers in line, 0.00 wait time).
+[537.49] Finished Shopping - Customer 412
+Now checking out 26 items @ Regular Lane 5
+[538.49] Finished Checkout - Customer 431 on Express Lane 12
+[Lane Report] Finished shopping @ 537.09, Front of line @ 537.09, Checkout ended @ 538.49 (0 customers in line, 0.00 wait time).
+[539.14] Arrival - Customer 49
+[539.21] Arrival - Customer 146
+[539.80] Arrival - Customer 409
+[540.14] Finished Shopping - Customer 27
+Now checking out 42 items @ Regular Lane 9
+[540.75] Arrival - Customer 328
+[540.79] Finished Checkout - Customer 412 on Regular Lane 5
+[Lane Report] Finished shopping @ 537.49, Front of line @ 537.49, Checkout ended @ 540.79 (0 customers in line, 0.00 wait time).
+[541.48] Finished Shopping - Customer 328
+Now checking out 1 items @ Express Lane 10
+[541.53] Arrival - Customer 348
+[541.71] Finished Shopping - Customer 383
+Now checking out 5 items @ Express Lane 12
+[542.58] Finished Checkout - Customer 328 on Express Lane 10
+[Lane Report] Finished shopping @ 541.48, Front of line @ 541.48, Checkout ended @ 542.58 (0 customers in line, 0.00 wait time).
+[543.20] Finished Shopping - Customer 178
+Now checking out 51 items @ Regular Lane 3
+[543.21] Finished Checkout - Customer 383 on Express Lane 12
+[Lane Report] Finished shopping @ 541.71, Front of line @ 541.71, Checkout ended @ 543.21 (0 customers in line, 0.00 wait time).
+[543.26] Finished Shopping - Customer 204
+Now checking out 51 items @ Regular Lane 5
+[544.06] Finished Shopping - Customer 409
+Now checking out 6 items @ Express Lane 10
+[544.24] Finished Checkout - Customer 27 on Regular Lane 9
+[Lane Report] Finished shopping @ 540.14, Front of line @ 540.14, Checkout ended @ 544.24 (0 customers in line, 0.00 wait time).
+[544.50] Finished Shopping - Customer 274
+Now checking out 7 items @ Express Lane 12
+[544.93] Arrival - Customer 276
+[545.66] Finished Checkout - Customer 409 on Express Lane 10
+[Lane Report] Finished shopping @ 544.06, Front of line @ 544.06, Checkout ended @ 545.66 (0 customers in line, 0.00 wait time).
+[546.20] Finished Checkout - Customer 274 on Express Lane 12
+[Lane Report] Finished shopping @ 544.50, Front of line @ 544.50, Checkout ended @ 546.20 (0 customers in line, 0.00 wait time).
+[547.02] Finished Shopping - Customer 425
+Now checking out 10 items @ Express Lane 10
+[547.07] Finished Shopping - Customer 376
+Now checking out 55 items @ Regular Lane 2
+[547.75] Finished Checkout - Customer 178 on Regular Lane 3
+[Lane Report] Finished shopping @ 543.20, Front of line @ 543.20, Checkout ended @ 547.75 (0 customers in line, 0.00 wait time).
+[547.81] Finished Checkout - Customer 204 on Regular Lane 5
+[Lane Report] Finished shopping @ 543.26, Front of line @ 543.26, Checkout ended @ 547.81 (0 customers in line, 0.00 wait time).
+[549.02] Finished Checkout - Customer 425 on Express Lane 10
+[Lane Report] Finished shopping @ 547.02, Front of line @ 547.02, Checkout ended @ 549.02 (0 customers in line, 0.00 wait time).
+[549.91] Arrival - Customer 193
+[550.10] Finished Shopping - Customer 423
+Now checking out 38 items @ Regular Lane 3
+[550.93] Arrival - Customer 126
+[551.35] Arrival - Customer 210
+[551.59] Finished Shopping - Customer 276
+Now checking out 9 items @ Express Lane 10
+[551.82] Finished Checkout - Customer 376 on Regular Lane 2
+[Lane Report] Finished shopping @ 547.07, Front of line @ 547.07, Checkout ended @ 551.82 (0 customers in line, 0.00 wait time).
+[552.46] Finished Shopping - Customer 52
+Now checking out 37 items @ Regular Lane 7
+[552.57] Finished Shopping - Customer 126
+Now checking out 2 items @ Express Lane 12
+[553.01] Arrival - Customer 368
+[553.33] Arrival - Customer 110
+[553.49] Finished Checkout - Customer 276 on Express Lane 10
+[Lane Report] Finished shopping @ 551.59, Front of line @ 551.59, Checkout ended @ 553.49 (0 customers in line, 0.00 wait time).
+[553.77] Finished Checkout - Customer 126 on Express Lane 12
+[Lane Report] Finished shopping @ 552.57, Front of line @ 552.57, Checkout ended @ 553.77 (0 customers in line, 0.00 wait time).
+[553.80] Arrival - Customer 384
+[554.00] Finished Checkout - Customer 423 on Regular Lane 3
+[Lane Report] Finished shopping @ 550.10, Front of line @ 550.10, Checkout ended @ 554.00 (0 customers in line, 0.00 wait time).
+[554.93] Arrival - Customer 393
+[555.89] Finished Shopping - Customer 146
+Now checking out 12 items @ Express Lane 10
+[556.01] Finished Shopping - Customer 193
+Now checking out 5 items @ Express Lane 12
+[556.31] Finished Checkout - Customer 52 on Regular Lane 7
+[Lane Report] Finished shopping @ 552.46, Front of line @ 552.46, Checkout ended @ 556.31 (0 customers in line, 0.00 wait time).
+[557.51] Finished Checkout - Customer 193 on Express Lane 12
+[Lane Report] Finished shopping @ 556.01, Front of line @ 556.01, Checkout ended @ 557.51 (0 customers in line, 0.00 wait time).
+[557.86] Finished Shopping - Customer 49
+Now checking out 24 items @ Regular Lane 1
+[558.09] Finished Checkout - Customer 146 on Express Lane 10
+[Lane Report] Finished shopping @ 555.89, Front of line @ 555.89, Checkout ended @ 558.09 (0 customers in line, 0.00 wait time).
+[558.52] Arrival - Customer 377
+[558.60] Finished Shopping - Customer 389
+Now checking out 54 items @ Regular Lane 2
+[559.59] Finished Shopping - Customer 120
+Now checking out 29 items @ Regular Lane 8
+[560.32] Finished Shopping - Customer 377
+Now checking out 2 items @ Express Lane 10
+[560.74] Arrival - Customer 349
+[561.06] Finished Checkout - Customer 49 on Regular Lane 1
+[Lane Report] Finished shopping @ 557.86, Front of line @ 557.86, Checkout ended @ 561.06 (0 customers in line, 0.00 wait time).
+[561.27] Arrival - Customer 222
+[561.52] Finished Checkout - Customer 377 on Express Lane 10
+[Lane Report] Finished shopping @ 560.32, Front of line @ 560.32, Checkout ended @ 561.52 (0 customers in line, 0.00 wait time).
+[562.10] Arrival - Customer 90
+[563.04] Finished Checkout - Customer 120 on Regular Lane 8
+[Lane Report] Finished shopping @ 559.59, Front of line @ 559.59, Checkout ended @ 563.04 (0 customers in line, 0.00 wait time).
+[563.30] Finished Checkout - Customer 389 on Regular Lane 2
+[Lane Report] Finished shopping @ 558.60, Front of line @ 558.60, Checkout ended @ 563.30 (0 customers in line, 0.00 wait time).
+[563.63] Arrival - Customer 165
+[564.06] Arrival - Customer 20
+[564.08] Arrival - Customer 14
+[564.15] Finished Shopping - Customer 348
+Now checking out 39 items @ Regular Lane 2
+[565.28] Finished Shopping - Customer 165
+Now checking out 3 items @ Express Lane 10
+[566.48] Arrival - Customer 289
+[566.58] Finished Checkout - Customer 165 on Express Lane 10
+[Lane Report] Finished shopping @ 565.28, Front of line @ 565.28, Checkout ended @ 566.58 (0 customers in line, 0.00 wait time).
+[566.64] Finished Shopping - Customer 349
+Now checking out 10 items @ Express Lane 10
+[567.25] Arrival - Customer 297
+[567.96] Finished Shopping - Customer 76
+Now checking out 35 items @ Regular Lane 7
+[568.10] Finished Checkout - Customer 348 on Regular Lane 2
+[Lane Report] Finished shopping @ 564.15, Front of line @ 564.15, Checkout ended @ 568.10 (0 customers in line, 0.00 wait time).
+[568.34] Arrival - Customer 362
+[568.64] Finished Checkout - Customer 349 on Express Lane 10
+[Lane Report] Finished shopping @ 566.64, Front of line @ 566.64, Checkout ended @ 568.64 (0 customers in line, 0.00 wait time).
+[569.64] Arrival - Customer 114
+[571.06] Finished Shopping - Customer 90
+Now checking out 14 items @ Regular Lane 2
+[571.46] Arrival - Customer 242
+[571.71] Finished Checkout - Customer 76 on Regular Lane 7
+[Lane Report] Finished shopping @ 567.96, Front of line @ 567.96, Checkout ended @ 571.71 (0 customers in line, 0.00 wait time).
+[573.76] Finished Checkout - Customer 90 on Regular Lane 2
+[Lane Report] Finished shopping @ 571.06, Front of line @ 571.06, Checkout ended @ 573.76 (0 customers in line, 0.00 wait time).
+[575.64] Arrival - Customer 443
+[575.70] Finished Shopping - Customer 238
+Now checking out 36 items @ Regular Lane 7
+[576.45] Finished Shopping - Customer 222
+Now checking out 23 items @ Regular Lane 9
+[576.61] Arrival - Customer 247
+[577.00] Finished Shopping - Customer 256
+Now checking out 50 items @ Regular Lane 4
+[577.76] Finished Shopping - Customer 242
+Now checking out 5 items @ Express Lane 10
+[578.78] Arrival - Customer 68
+[579.22] Arrival - Customer 145
+[579.23] Arrival - Customer 143
+[579.26] Finished Checkout - Customer 242 on Express Lane 10
+[Lane Report] Finished shopping @ 577.76, Front of line @ 577.76, Checkout ended @ 579.26 (0 customers in line, 0.00 wait time).
+[579.50] Finished Checkout - Customer 238 on Regular Lane 7
+[Lane Report] Finished shopping @ 575.70, Front of line @ 575.70, Checkout ended @ 579.50 (0 customers in line, 0.00 wait time).
+[579.60] Finished Checkout - Customer 222 on Regular Lane 9
+[Lane Report] Finished shopping @ 576.45, Front of line @ 576.45, Checkout ended @ 579.60 (0 customers in line, 0.00 wait time).
+[581.50] Finished Checkout - Customer 256 on Regular Lane 4
+[Lane Report] Finished shopping @ 577.00, Front of line @ 577.00, Checkout ended @ 581.50 (0 customers in line, 0.00 wait time).
+[582.04] Finished Shopping - Customer 443
+Now checking out 10 items @ Express Lane 10
+[582.87] Arrival - Customer 72
+[583.31] Arrival - Customer 77
+[583.39] Finished Shopping - Customer 114
+Now checking out 11 items @ Express Lane 12
+[583.46] Finished Shopping - Customer 14
+Now checking out 38 items @ Regular Lane 9
+[583.61] Finished Shopping - Customer 247
+Now checking out 5 items @ Express Lane 11
+[583.76] Arrival - Customer 173
+[584.04] Finished Checkout - Customer 443 on Express Lane 10
+[Lane Report] Finished shopping @ 582.04, Front of line @ 582.04, Checkout ended @ 584.04 (0 customers in line, 0.00 wait time).
+[585.11] Finished Checkout - Customer 247 on Express Lane 11
+[Lane Report] Finished shopping @ 583.61, Front of line @ 583.61, Checkout ended @ 585.11 (0 customers in line, 0.00 wait time).
+[585.49] Finished Checkout - Customer 114 on Express Lane 12
+[Lane Report] Finished shopping @ 583.39, Front of line @ 583.39, Checkout ended @ 585.49 (0 customers in line, 0.00 wait time).
+[585.84] Arrival - Customer 405
+[586.34] Finished Shopping - Customer 68
+Now checking out 14 items @ Regular Lane 6
+[586.88] Finished Shopping - Customer 143
+Now checking out 9 items @ Express Lane 10
+[587.36] Finished Checkout - Customer 14 on Regular Lane 9
+[Lane Report] Finished shopping @ 583.46, Front of line @ 583.46, Checkout ended @ 587.36 (0 customers in line, 0.00 wait time).
+[587.37] Arrival - Customer 71
+[587.99] Finished Shopping - Customer 164
+Now checking out 41 items @ Regular Lane 9
+[588.36] Finished Shopping - Customer 362
+Now checking out 14 items @ Regular Lane 8
+[588.48] Arrival - Customer 172
+[588.55] Arrival - Customer 227
+[588.78] Finished Checkout - Customer 143 on Express Lane 10
+[Lane Report] Finished shopping @ 586.88, Front of line @ 586.88, Checkout ended @ 588.78 (0 customers in line, 0.00 wait time).
+[589.04] Finished Checkout - Customer 68 on Regular Lane 6
+[Lane Report] Finished shopping @ 586.34, Front of line @ 586.34, Checkout ended @ 589.04 (0 customers in line, 0.00 wait time).
+[589.37] Arrival - Customer 410
+[589.58] Finished Shopping - Customer 393
+Now checking out 45 items @ Regular Lane 7
+[590.10] Finished Shopping - Customer 145
+Now checking out 8 items @ Express Lane 10
+[590.32] Finished Shopping - Customer 405
+Now checking out 8 items @ Express Lane 12
+[591.06] Finished Checkout - Customer 362 on Regular Lane 8
+[Lane Report] Finished shopping @ 588.36, Front of line @ 588.36, Checkout ended @ 591.06 (0 customers in line, 0.00 wait time).
+[591.90] Finished Checkout - Customer 145 on Express Lane 10
+[Lane Report] Finished shopping @ 590.10, Front of line @ 590.10, Checkout ended @ 591.90 (0 customers in line, 0.00 wait time).
+[592.04] Finished Checkout - Customer 164 on Regular Lane 9
+[Lane Report] Finished shopping @ 587.99, Front of line @ 587.99, Checkout ended @ 592.04 (0 customers in line, 0.00 wait time).
+[592.12] Finished Checkout - Customer 405 on Express Lane 12
+[Lane Report] Finished shopping @ 590.32, Front of line @ 590.32, Checkout ended @ 592.12 (0 customers in line, 0.00 wait time).
+[593.23] Arrival - Customer 245
+[593.40] Finished Shopping - Customer 72
+Now checking out 9 items @ Express Lane 10
+[593.74] Finished Shopping - Customer 289
+Now checking out 29 items @ Regular Lane 2
+[593.83] Finished Checkout - Customer 393 on Regular Lane 7
+[Lane Report] Finished shopping @ 589.58, Front of line @ 589.58, Checkout ended @ 593.83 (0 customers in line, 0.00 wait time).
+[594.49] Finished Shopping - Customer 410
+Now checking out 8 items @ Express Lane 12
+[594.51] Finished Shopping - Customer 227
+Now checking out 4 items @ Express Lane 11
+[595.00] Arrival - Customer 413
+[595.30] Finished Checkout - Customer 72 on Express Lane 10
+[Lane Report] Finished shopping @ 593.40, Front of line @ 593.40, Checkout ended @ 595.30 (0 customers in line, 0.00 wait time).
+[595.73] Arrival - Customer 215
+[595.76] Finished Shopping - Customer 172
+Now checking out 8 items @ Express Lane 10
+[595.91] Arrival - Customer 80
+[595.91] Finished Checkout - Customer 227 on Express Lane 11
+[Lane Report] Finished shopping @ 594.51, Front of line @ 594.51, Checkout ended @ 595.91 (0 customers in line, 0.00 wait time).
+[596.29] Finished Checkout - Customer 410 on Express Lane 12
+[Lane Report] Finished shopping @ 594.49, Front of line @ 594.49, Checkout ended @ 596.29 (0 customers in line, 0.00 wait time).
+[597.19] Finished Checkout - Customer 289 on Regular Lane 2
+[Lane Report] Finished shopping @ 593.74, Front of line @ 593.74, Checkout ended @ 597.19 (0 customers in line, 0.00 wait time).
+[597.56] Finished Checkout - Customer 172 on Express Lane 10
+[Lane Report] Finished shopping @ 595.76, Front of line @ 595.76, Checkout ended @ 597.56 (0 customers in line, 0.00 wait time).
+[598.60] Arrival - Customer 197
+[598.69] Arrival - Customer 124
+[599.16] Arrival - Customer 180
+[599.25] Arrival - Customer 270
+[599.26] Arrival - Customer 386
+[599.39] Finished Shopping - Customer 245
+Now checking out 8 items @ Express Lane 10
+[599.93] Arrival - Customer 356
+[600.46] Arrival - Customer 229
+[600.66] Arrival - Customer 185
+[601.19] Finished Checkout - Customer 245 on Express Lane 10
+[Lane Report] Finished shopping @ 599.39, Front of line @ 599.39, Checkout ended @ 601.19 (0 customers in line, 0.00 wait time).
+[601.36] Finished Shopping - Customer 384
+Now checking out 41 items @ Regular Lane 7
+[601.81] Finished Shopping - Customer 110
+Now checking out 48 items @ Regular Lane 2
+[602.14] Finished Shopping - Customer 180
+Now checking out 2 items @ Express Lane 10
+[603.34] Finished Checkout - Customer 180 on Express Lane 10
+[Lane Report] Finished shopping @ 602.14, Front of line @ 602.14, Checkout ended @ 603.34 (0 customers in line, 0.00 wait time).
+[603.90] Arrival - Customer 87
+[605.18] Finished Shopping - Customer 16
+Now checking out 56 items @ Regular Lane 8
+[605.20] Finished Shopping - Customer 20
+Now checking out 34 items @ Regular Lane 3
+[605.41] Finished Checkout - Customer 384 on Regular Lane 7
+[Lane Report] Finished shopping @ 601.36, Front of line @ 601.36, Checkout ended @ 605.41 (0 customers in line, 0.00 wait time).
+[605.41] Arrival - Customer 442
+[605.88] Arrival - Customer 263
+[606.21] Finished Checkout - Customer 110 on Regular Lane 2
+[Lane Report] Finished shopping @ 601.81, Front of line @ 601.81, Checkout ended @ 606.21 (0 customers in line, 0.00 wait time).
+[606.24] Arrival - Customer 43
+[606.26] Arrival - Customer 253
+[607.95] Finished Shopping - Customer 368
+Now checking out 41 items @ Regular Lane 1
+[608.90] Finished Checkout - Customer 20 on Regular Lane 3
+[Lane Report] Finished shopping @ 605.20, Front of line @ 605.20, Checkout ended @ 608.90 (0 customers in line, 0.00 wait time).
+[609.24] Finished Shopping - Customer 263
+Now checking out 4 items @ Express Lane 10
+[609.98] Finished Checkout - Customer 16 on Regular Lane 8
+[Lane Report] Finished shopping @ 605.18, Front of line @ 605.18, Checkout ended @ 609.98 (0 customers in line, 0.00 wait time).
+[610.15] Finished Shopping - Customer 77
+Now checking out 22 items @ Regular Lane 2
+[610.59] Finished Shopping - Customer 43
+Now checking out 5 items @ Express Lane 12
+[610.64] Finished Checkout - Customer 263 on Express Lane 10
+[Lane Report] Finished shopping @ 609.24, Front of line @ 609.24, Checkout ended @ 610.64 (0 customers in line, 0.00 wait time).
+[611.76] Finished Shopping - Customer 173
+Now checking out 20 items @ Regular Lane 8
+[612.00] Finished Checkout - Customer 368 on Regular Lane 1
+[Lane Report] Finished shopping @ 607.95, Front of line @ 607.95, Checkout ended @ 612.00 (0 customers in line, 0.00 wait time).
+[612.09] Finished Checkout - Customer 43 on Express Lane 12
+[Lane Report] Finished shopping @ 610.59, Front of line @ 610.59, Checkout ended @ 612.09 (0 customers in line, 0.00 wait time).
+[613.25] Finished Checkout - Customer 77 on Regular Lane 2
+[Lane Report] Finished shopping @ 610.15, Front of line @ 610.15, Checkout ended @ 613.25 (0 customers in line, 0.00 wait time).
+[613.63] Finished Shopping - Customer 356
+Now checking out 10 items @ Express Lane 10
+[613.66] Arrival - Customer 174
+[613.80] Arrival - Customer 338
+[614.00] Arrival - Customer 112
+[614.76] Finished Checkout - Customer 173 on Regular Lane 8
+[Lane Report] Finished shopping @ 611.76, Front of line @ 611.76, Checkout ended @ 614.76 (0 customers in line, 0.00 wait time).
+[614.94] Arrival - Customer 298
+[615.63] Finished Checkout - Customer 356 on Express Lane 10
+[Lane Report] Finished shopping @ 613.63, Front of line @ 613.63, Checkout ended @ 615.63 (0 customers in line, 0.00 wait time).
+[615.90] Finished Shopping - Customer 87
+Now checking out 16 items @ Regular Lane 3
+[616.28] Finished Shopping - Customer 197
+Now checking out 26 items @ Regular Lane 4
+[617.67] Arrival - Customer 375
+[618.49] Finished Shopping - Customer 124
+Now checking out 18 items @ Regular Lane 8
+[618.63] Finished Shopping - Customer 413
+Now checking out 17 items @ Regular Lane 1
+[618.70] Finished Checkout - Customer 87 on Regular Lane 3
+[Lane Report] Finished shopping @ 615.90, Front of line @ 615.90, Checkout ended @ 618.70 (0 customers in line, 0.00 wait time).
+[619.03] Arrival - Customer 217
+[619.58] Finished Checkout - Customer 197 on Regular Lane 4
+[Lane Report] Finished shopping @ 616.28, Front of line @ 616.28, Checkout ended @ 619.58 (0 customers in line, 0.00 wait time).
+[619.91] Finished Shopping - Customer 80
+Now checking out 48 items @ Regular Lane 4
+[620.88] Arrival - Customer 437
+[621.15] Finished Shopping - Customer 375
+Now checking out 4 items @ Express Lane 10
+[621.39] Finished Checkout - Customer 124 on Regular Lane 8
+[Lane Report] Finished shopping @ 618.49, Front of line @ 618.49, Checkout ended @ 621.39 (0 customers in line, 0.00 wait time).
+[621.48] Finished Checkout - Customer 413 on Regular Lane 1
+[Lane Report] Finished shopping @ 618.63, Front of line @ 618.63, Checkout ended @ 621.48 (0 customers in line, 0.00 wait time).
+[621.53] Finished Shopping - Customer 442
+Now checking out 26 items @ Regular Lane 6
+[621.75] Finished Shopping - Customer 270
+Now checking out 30 items @ Regular Lane 3
+[621.80] Finished Shopping - Customer 298
+Now checking out 7 items @ Express Lane 12
+[622.00] Arrival - Customer 379
+[622.55] Finished Checkout - Customer 375 on Express Lane 10
+[Lane Report] Finished shopping @ 621.15, Front of line @ 621.15, Checkout ended @ 622.55 (0 customers in line, 0.00 wait time).
+[622.93] Finished Shopping - Customer 297
+Now checking out 58 items @ Regular Lane 8
+[623.39] Arrival - Customer 312
+[623.50] Finished Checkout - Customer 298 on Express Lane 12
+[Lane Report] Finished shopping @ 621.80, Front of line @ 621.80, Checkout ended @ 623.50 (0 customers in line, 0.00 wait time).
+[623.70] Arrival - Customer 60
+[624.31] Finished Checkout - Customer 80 on Regular Lane 4
+[Lane Report] Finished shopping @ 619.91, Front of line @ 619.91, Checkout ended @ 624.31 (0 customers in line, 0.00 wait time).
+[624.83] Finished Checkout - Customer 442 on Regular Lane 6
+[Lane Report] Finished shopping @ 621.53, Front of line @ 621.53, Checkout ended @ 624.83 (0 customers in line, 0.00 wait time).
+[624.90] Arrival - Customer 290
+[625.25] Finished Checkout - Customer 270 on Regular Lane 3
+[Lane Report] Finished shopping @ 621.75, Front of line @ 621.75, Checkout ended @ 625.25 (0 customers in line, 0.00 wait time).
+[627.83] Finished Checkout - Customer 297 on Regular Lane 8
+[Lane Report] Finished shopping @ 622.93, Front of line @ 622.93, Checkout ended @ 627.83 (0 customers in line, 0.00 wait time).
+[628.94] Finished Shopping - Customer 60
+Now checking out 4 items @ Express Lane 10
+[630.34] Finished Checkout - Customer 60 on Express Lane 10
+[Lane Report] Finished shopping @ 628.94, Front of line @ 628.94, Checkout ended @ 630.34 (0 customers in line, 0.00 wait time).
+[632.74] Finished Shopping - Customer 174
+Now checking out 36 items @ Regular Lane 4
+[633.65] Finished Shopping - Customer 112
+Now checking out 15 items @ Regular Lane 9
+[634.43] Finished Shopping - Customer 312
+Now checking out 8 items @ Express Lane 10
+[634.94] Arrival - Customer 374
+[636.23] Finished Checkout - Customer 312 on Express Lane 10
+[Lane Report] Finished shopping @ 634.43, Front of line @ 634.43, Checkout ended @ 636.23 (0 customers in line, 0.00 wait time).
+[636.40] Finished Checkout - Customer 112 on Regular Lane 9
+[Lane Report] Finished shopping @ 633.65, Front of line @ 633.65, Checkout ended @ 636.40 (0 customers in line, 0.00 wait time).
+[636.54] Finished Checkout - Customer 174 on Regular Lane 4
+[Lane Report] Finished shopping @ 632.74, Front of line @ 632.74, Checkout ended @ 636.54 (0 customers in line, 0.00 wait time).
+[636.59] Arrival - Customer 436
+[637.43] Arrival - Customer 224
+[637.86] Finished Shopping - Customer 290
+Now checking out 12 items @ Express Lane 10
+[637.91] Finished Shopping - Customer 374
+Now checking out 3 items @ Express Lane 12
+[638.32] Finished Shopping - Customer 379
+Now checking out 12 items @ Express Lane 11
+[639.21] Finished Checkout - Customer 374 on Express Lane 12
+[Lane Report] Finished shopping @ 637.91, Front of line @ 637.91, Checkout ended @ 639.21 (0 customers in line, 0.00 wait time).
+[640.06] Finished Checkout - Customer 290 on Express Lane 10
+[Lane Report] Finished shopping @ 637.86, Front of line @ 637.86, Checkout ended @ 640.06 (0 customers in line, 0.00 wait time).
+[640.52] Finished Checkout - Customer 379 on Express Lane 11
+[Lane Report] Finished shopping @ 638.32, Front of line @ 638.32, Checkout ended @ 640.52 (0 customers in line, 0.00 wait time).
+[640.63] Finished Shopping - Customer 217
+Now checking out 24 items @ Regular Lane 9
+[640.75] Finished Shopping - Customer 210
+Now checking out 60 items @ Regular Lane 8
+[641.24] Finished Shopping - Customer 215
+Now checking out 41 items @ Regular Lane 1
+[641.97] Arrival - Customer 33
+[642.10] Arrival - Customer 48
+[642.30] Finished Shopping - Customer 437
+Now checking out 21 items @ Regular Lane 2
+[643.83] Finished Checkout - Customer 217 on Regular Lane 9
+[Lane Report] Finished shopping @ 640.63, Front of line @ 640.63, Checkout ended @ 643.83 (0 customers in line, 0.00 wait time).
+[644.38] Finished Shopping - Customer 48
+Now checking out 2 items @ Express Lane 10
+[644.87] Arrival - Customer 406
+[644.90] Arrival - Customer 160
+[645.29] Arrival - Customer 282
+[645.29] Finished Checkout - Customer 215 on Regular Lane 1
+[Lane Report] Finished shopping @ 641.24, Front of line @ 641.24, Checkout ended @ 645.29 (0 customers in line, 0.00 wait time).
+[645.35] Finished Checkout - Customer 437 on Regular Lane 2
+[Lane Report] Finished shopping @ 642.30, Front of line @ 642.30, Checkout ended @ 645.35 (0 customers in line, 0.00 wait time).
+[645.58] Finished Checkout - Customer 48 on Express Lane 10
+[Lane Report] Finished shopping @ 644.38, Front of line @ 644.38, Checkout ended @ 645.58 (0 customers in line, 0.00 wait time).
+[645.66] Arrival - Customer 300
+[645.75] Finished Checkout - Customer 210 on Regular Lane 8
+[Lane Report] Finished shopping @ 640.75, Front of line @ 640.75, Checkout ended @ 645.75 (0 customers in line, 0.00 wait time).
+[647.49] Finished Shopping - Customer 33
+Now checking out 8 items @ Express Lane 10
+[647.53] Arrival - Customer 434
+[648.96] Finished Shopping - Customer 185
+Now checking out 46 items @ Regular Lane 3
+[649.29] Finished Checkout - Customer 33 on Express Lane 10
+[Lane Report] Finished shopping @ 647.49, Front of line @ 647.49, Checkout ended @ 649.29 (0 customers in line, 0.00 wait time).
+[650.21] Finished Shopping - Customer 224
+Now checking out 9 items @ Express Lane 10
+[651.77] Arrival - Customer 283
+[652.11] Finished Checkout - Customer 224 on Express Lane 10
+[Lane Report] Finished shopping @ 650.21, Front of line @ 650.21, Checkout ended @ 652.11 (0 customers in line, 0.00 wait time).
+[653.19] Finished Shopping - Customer 282
+Now checking out 10 items @ Express Lane 10
+[653.26] Finished Checkout - Customer 185 on Regular Lane 3
+[Lane Report] Finished shopping @ 648.96, Front of line @ 648.96, Checkout ended @ 653.26 (0 customers in line, 0.00 wait time).
+[654.97] Finished Shopping - Customer 71
+Now checking out 52 items @ Regular Lane 1
+[655.13] Finished Shopping - Customer 283
+Now checking out 6 items @ Express Lane 12
+[655.19] Finished Checkout - Customer 282 on Express Lane 10
+[Lane Report] Finished shopping @ 653.19, Front of line @ 653.19, Checkout ended @ 655.19 (0 customers in line, 0.00 wait time).
+[655.46] Arrival - Customer 280
+[655.53] Arrival - Customer 241
+[656.73] Finished Checkout - Customer 283 on Express Lane 12
+[Lane Report] Finished shopping @ 655.13, Front of line @ 655.13, Checkout ended @ 656.73 (0 customers in line, 0.00 wait time).
+[656.92] Arrival - Customer 64
+[657.15] Arrival - Customer 398
+[658.16] Arrival - Customer 339
+[659.57] Finished Checkout - Customer 71 on Regular Lane 1
+[Lane Report] Finished shopping @ 654.97, Front of line @ 654.97, Checkout ended @ 659.57 (0 customers in line, 0.00 wait time).
+[660.52] Arrival - Customer 343
+[660.88] Arrival - Customer 65
+[660.96] Finished Shopping - Customer 229
+Now checking out 55 items @ Regular Lane 3
+[660.96] Arrival - Customer 333
+[661.95] Arrival - Customer 166
+[663.42] Finished Shopping - Customer 343
+Now checking out 5 items @ Express Lane 10
+[664.20] Finished Shopping - Customer 65
+Now checking out 4 items @ Express Lane 12
+[664.92] Finished Checkout - Customer 343 on Express Lane 10
+[Lane Report] Finished shopping @ 663.42, Front of line @ 663.42, Checkout ended @ 664.92 (0 customers in line, 0.00 wait time).
+[665.08] Finished Shopping - Customer 64
+Now checking out 12 items @ Express Lane 10
+[665.60] Finished Checkout - Customer 65 on Express Lane 12
+[Lane Report] Finished shopping @ 664.20, Front of line @ 664.20, Checkout ended @ 665.60 (0 customers in line, 0.00 wait time).
+[665.71] Finished Checkout - Customer 229 on Regular Lane 3
+[Lane Report] Finished shopping @ 660.96, Front of line @ 660.96, Checkout ended @ 665.71 (0 customers in line, 0.00 wait time).
+[665.95] Finished Shopping - Customer 166
+Now checking out 5 items @ Express Lane 12
+[667.28] Finished Checkout - Customer 64 on Express Lane 10
+[Lane Report] Finished shopping @ 665.08, Front of line @ 665.08, Checkout ended @ 667.28 (0 customers in line, 0.00 wait time).
+[667.45] Finished Checkout - Customer 166 on Express Lane 12
+[Lane Report] Finished shopping @ 665.95, Front of line @ 665.95, Checkout ended @ 667.45 (0 customers in line, 0.00 wait time).
+[668.32] Arrival - Customer 340
+[669.21] Finished Shopping - Customer 333
+Now checking out 11 items @ Express Lane 10
+[670.15] Finished Shopping - Customer 386
+Now checking out 51 items @ Regular Lane 1
+[670.44] Arrival - Customer 44
+[670.68] Arrival - Customer 158
+[671.31] Finished Checkout - Customer 333 on Express Lane 10
+[Lane Report] Finished shopping @ 669.21, Front of line @ 669.21, Checkout ended @ 671.31 (0 customers in line, 0.00 wait time).
+[672.80] Finished Shopping - Customer 338
+Now checking out 59 items @ Regular Lane 3
+[672.93] Finished Shopping - Customer 253
+Now checking out 59 items @ Regular Lane 9
+[674.70] Finished Checkout - Customer 386 on Regular Lane 1
+[Lane Report] Finished shopping @ 670.15, Front of line @ 670.15, Checkout ended @ 674.70 (0 customers in line, 0.00 wait time).
+[674.77] Arrival - Customer 142
+[677.01] Finished Shopping - Customer 44
+Now checking out 9 items @ Express Lane 10
+[677.17] Finished Shopping - Customer 434
+Now checking out 26 items @ Regular Lane 7
+[677.75] Finished Checkout - Customer 338 on Regular Lane 3
+[Lane Report] Finished shopping @ 672.80, Front of line @ 672.80, Checkout ended @ 677.75 (0 customers in line, 0.00 wait time).
+[677.75] Arrival - Customer 240
+[677.88] Finished Checkout - Customer 253 on Regular Lane 9
+[Lane Report] Finished shopping @ 672.93, Front of line @ 672.93, Checkout ended @ 677.88 (0 customers in line, 0.00 wait time).
+[678.91] Finished Checkout - Customer 44 on Express Lane 10
+[Lane Report] Finished shopping @ 677.01, Front of line @ 677.01, Checkout ended @ 678.91 (0 customers in line, 0.00 wait time).
+[680.27] Arrival - Customer 232
+[680.31] Finished Shopping - Customer 300
+Now checking out 45 items @ Regular Lane 5
+[680.37] Arrival - Customer 438
+[680.47] Finished Checkout - Customer 434 on Regular Lane 7
+[Lane Report] Finished shopping @ 677.17, Front of line @ 677.17, Checkout ended @ 680.47 (0 customers in line, 0.00 wait time).
+[681.35] Arrival - Customer 25
+[681.66] Finished Shopping - Customer 241
+Now checking out 39 items @ Regular Lane 2
+[682.05] Arrival - Customer 86
+[684.56] Finished Checkout - Customer 300 on Regular Lane 5
+[Lane Report] Finished shopping @ 680.31, Front of line @ 680.31, Checkout ended @ 684.56 (0 customers in line, 0.00 wait time).
+[684.94] Arrival - Customer 82
+[684.98] Finished Shopping - Customer 158
+Now checking out 10 items @ Express Lane 10
+[685.61] Finished Checkout - Customer 241 on Regular Lane 2
+[Lane Report] Finished shopping @ 681.66, Front of line @ 681.66, Checkout ended @ 685.61 (0 customers in line, 0.00 wait time).
+[685.77] Finished Shopping - Customer 86
+Now checking out 3 items @ Express Lane 12
+[686.98] Finished Checkout - Customer 158 on Express Lane 10
+[Lane Report] Finished shopping @ 684.98, Front of line @ 684.98, Checkout ended @ 686.98 (0 customers in line, 0.00 wait time).
+[687.07] Finished Checkout - Customer 86 on Express Lane 12
+[Lane Report] Finished shopping @ 685.77, Front of line @ 685.77, Checkout ended @ 687.07 (0 customers in line, 0.00 wait time).
+[688.06] Finished Shopping - Customer 82
+Now checking out 6 items @ Express Lane 10
+[688.11] Finished Shopping - Customer 436
+Now checking out 56 items @ Regular Lane 2
+[689.66] Finished Checkout - Customer 82 on Express Lane 10
+[Lane Report] Finished shopping @ 688.06, Front of line @ 688.06, Checkout ended @ 689.66 (0 customers in line, 0.00 wait time).
+[690.22] Finished Shopping - Customer 340
+Now checking out 30 items @ Regular Lane 5
+[690.96] Finished Shopping - Customer 160
+Now checking out 47 items @ Regular Lane 8
+[691.82] Arrival - Customer 195
+[692.87] Finished Shopping - Customer 406
+Now checking out 48 items @ Regular Lane 3
+[692.91] Finished Checkout - Customer 436 on Regular Lane 2
+[Lane Report] Finished shopping @ 688.11, Front of line @ 688.11, Checkout ended @ 692.91 (0 customers in line, 0.00 wait time).
+[693.52] Arrival - Customer 159
+[693.65] Finished Shopping - Customer 25
+Now checking out 10 items @ Express Lane 10
+[693.72] Finished Checkout - Customer 340 on Regular Lane 5
+[Lane Report] Finished shopping @ 690.22, Front of line @ 690.22, Checkout ended @ 693.72 (0 customers in line, 0.00 wait time).
+[695.06] Arrival - Customer 450
+[695.31] Finished Checkout - Customer 160 on Regular Lane 8
+[Lane Report] Finished shopping @ 690.96, Front of line @ 690.96, Checkout ended @ 695.31 (0 customers in line, 0.00 wait time).
+[695.62] Arrival - Customer 189
+[695.65] Finished Checkout - Customer 25 on Express Lane 10
+[Lane Report] Finished shopping @ 693.65, Front of line @ 693.65, Checkout ended @ 695.65 (0 customers in line, 0.00 wait time).
+[696.67] Finished Shopping - Customer 240
+Now checking out 22 items @ Regular Lane 1
+[697.27] Finished Checkout - Customer 406 on Regular Lane 3
+[Lane Report] Finished shopping @ 692.87, Front of line @ 692.87, Checkout ended @ 697.27 (0 customers in line, 0.00 wait time).
+[697.95] Arrival - Customer 183
+[699.58] Arrival - Customer 309
+[699.77] Finished Checkout - Customer 240 on Regular Lane 1
+[Lane Report] Finished shopping @ 696.67, Front of line @ 696.67, Checkout ended @ 699.77 (0 customers in line, 0.00 wait time).
+[700.21] Arrival - Customer 400
+[700.52] Finished Shopping - Customer 195
+Now checking out 10 items @ Express Lane 10
+[700.62] Arrival - Customer 446
+[701.54] Finished Shopping - Customer 450
+Now checking out 8 items @ Express Lane 12
+[702.52] Finished Checkout - Customer 195 on Express Lane 10
+[Lane Report] Finished shopping @ 700.52, Front of line @ 700.52, Checkout ended @ 702.52 (0 customers in line, 0.00 wait time).
+[703.28] Arrival - Customer 286
+[703.34] Finished Checkout - Customer 450 on Express Lane 12
+[Lane Report] Finished shopping @ 701.54, Front of line @ 701.54, Checkout ended @ 703.34 (0 customers in line, 0.00 wait time).
+[704.25] Arrival - Customer 205
+[704.46] Arrival - Customer 187
+[705.54] Finished Shopping - Customer 183
+Now checking out 11 items @ Express Lane 10
+[706.78] Finished Shopping - Customer 309
+Now checking out 8 items @ Express Lane 12
+[707.36] Finished Shopping - Customer 339
+Now checking out 60 items @ Regular Lane 4
+[707.64] Finished Checkout - Customer 183 on Express Lane 10
+[Lane Report] Finished shopping @ 705.54, Front of line @ 705.54, Checkout ended @ 707.64 (0 customers in line, 0.00 wait time).
+[708.58] Finished Checkout - Customer 309 on Express Lane 12
+[Lane Report] Finished shopping @ 706.78, Front of line @ 706.78, Checkout ended @ 708.58 (0 customers in line, 0.00 wait time).
+[709.30] Finished Shopping - Customer 189
+Now checking out 18 items @ Regular Lane 9
+[710.49] Finished Shopping - Customer 205
+Now checking out 12 items @ Express Lane 10
+[711.58] Arrival - Customer 411
+[712.20] Finished Checkout - Customer 189 on Regular Lane 9
+[Lane Report] Finished shopping @ 709.30, Front of line @ 709.30, Checkout ended @ 712.20 (0 customers in line, 0.00 wait time).
+[712.36] Finished Checkout - Customer 339 on Regular Lane 4
+[Lane Report] Finished shopping @ 707.36, Front of line @ 707.36, Checkout ended @ 712.36 (0 customers in line, 0.00 wait time).
+[712.69] Finished Checkout - Customer 205 on Express Lane 10
+[Lane Report] Finished shopping @ 710.49, Front of line @ 710.49, Checkout ended @ 712.69 (0 customers in line, 0.00 wait time).
+[712.77] Finished Shopping - Customer 398
+Now checking out 54 items @ Regular Lane 5
+[713.26] Finished Shopping - Customer 411
+Now checking out 3 items @ Express Lane 10
+[714.56] Finished Checkout - Customer 411 on Express Lane 10
+[Lane Report] Finished shopping @ 713.26, Front of line @ 713.26, Checkout ended @ 714.56 (0 customers in line, 0.00 wait time).
+[716.09] Finished Shopping - Customer 280
+Now checking out 43 items @ Regular Lane 1
+[717.47] Finished Checkout - Customer 398 on Regular Lane 5
+[Lane Report] Finished shopping @ 712.77, Front of line @ 712.77, Checkout ended @ 717.47 (0 customers in line, 0.00 wait time).
+[717.97] Finished Shopping - Customer 142
+Now checking out 30 items @ Regular Lane 5
+[718.47] Arrival - Customer 233
+[719.25] Finished Shopping - Customer 438
+Now checking out 36 items @ Regular Lane 3
+[720.24] Finished Checkout - Customer 280 on Regular Lane 1
+[Lane Report] Finished shopping @ 716.09, Front of line @ 716.09, Checkout ended @ 720.24 (0 customers in line, 0.00 wait time).
+[721.47] Finished Checkout - Customer 142 on Regular Lane 5
+[Lane Report] Finished shopping @ 717.97, Front of line @ 717.97, Checkout ended @ 721.47 (0 customers in line, 0.00 wait time).
+[723.05] Finished Checkout - Customer 438 on Regular Lane 3
+[Lane Report] Finished shopping @ 719.25, Front of line @ 719.25, Checkout ended @ 723.05 (0 customers in line, 0.00 wait time).
+[725.02] Finished Shopping - Customer 159
+Now checking out 30 items @ Regular Lane 6
+[728.52] Finished Checkout - Customer 159 on Regular Lane 6
+[Lane Report] Finished shopping @ 725.02, Front of line @ 725.02, Checkout ended @ 728.52 (0 customers in line, 0.00 wait time).
+[730.59] Finished Shopping - Customer 400
+Now checking out 31 items @ Regular Lane 1
+[731.82] Finished Shopping - Customer 446
+Now checking out 30 items @ Regular Lane 6
+[734.14] Finished Checkout - Customer 400 on Regular Lane 1
+[Lane Report] Finished shopping @ 730.59, Front of line @ 730.59, Checkout ended @ 734.14 (0 customers in line, 0.00 wait time).
+[735.32] Finished Checkout - Customer 446 on Regular Lane 6
+[Lane Report] Finished shopping @ 731.82, Front of line @ 731.82, Checkout ended @ 735.32 (0 customers in line, 0.00 wait time).
+[736.07] Finished Shopping - Customer 232
+Now checking out 60 items @ Regular Lane 1
+[737.31] Finished Shopping - Customer 286
+Now checking out 41 items @ Regular Lane 8
+[741.07] Finished Checkout - Customer 232 on Regular Lane 1
+[Lane Report] Finished shopping @ 736.07, Front of line @ 736.07, Checkout ended @ 741.07 (0 customers in line, 0.00 wait time).
+[741.36] Finished Checkout - Customer 286 on Regular Lane 8
+[Lane Report] Finished shopping @ 737.31, Front of line @ 737.31, Checkout ended @ 741.36 (0 customers in line, 0.00 wait time).
+[752.07] Finished Shopping - Customer 233
+Now checking out 32 items @ Regular Lane 2
+[755.67] Finished Checkout - Customer 233 on Regular Lane 2
+[Lane Report] Finished shopping @ 752.07, Front of line @ 752.07, Checkout ended @ 755.67 (0 customers in line, 0.00 wait time).
+[758.85] Finished Shopping - Customer 187
+Now checking out 37 items @ Regular Lane 5
+[762.70] Finished Checkout - Customer 187 on Regular Lane 5
+[Lane Report] Finished shopping @ 758.85, Front of line @ 758.85, Checkout ended @ 762.70 (0 customers in line, 0.00 wait time).
+
+Input file used: arrival medium.txt
+Average wait time: 0.00
